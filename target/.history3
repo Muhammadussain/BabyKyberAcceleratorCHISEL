@@ -1,0 +1,57 @@
+1666980215276:testOnly datapath.toptest
+1667563312914:testOnly datapath.toptest -- -DwriteVcd=1
+1667569715280:testOnly datapath.toptest
+1667569722322:testOnly datapath.toptest -- -DwriteVcd=1
+1667802006576:OA
+1667802009017:testOnly datapath.toptest -- -DwriteVcd=1
+1669223918475:testOnly singlecycle.toptest -- -DwriteVcd=1
+1669230717606:testOnly datapath.toptest -- -DwriteVcd=1
+1669230940331:testOnly singlecycle.toptest -- -DwriteVcd=1
+1669231513950:testOnly singlecycle.toptest
+1669478923226:testOnly singlecycle.toptest -- -DwriteVcd=1
+1673026719555:testOnly matrixadd.maddtest -- -DwriteVcd=1
+1673028401279:testOnly matrixadd.matrixaddertest -- -DwriteVcd=1
+1678178380721:testOnly nucleusrv.components.VectorRegisterFileTest -- -DwriteVcd=1
+1678178477236:testOnly components.VectorRegisterFileTest -- -DwriteVcd=1
+1678178798875:testOnly vector.VectorRegisterFileTest -- -DwriteVcd=1
+1678186150463:testOnly vector.VectorRegisterFileTest
+1678188727339:testOnly vector.VectorRegisterFileTest -- -DwriteVcd=1
+1678278778490:testOnly vector.TopTest
+1678278948422:sbt test
+1678278954535:testOnly vector.TopTest
+1678299641146:testOnly vector.VectorRegisterFileTest -- -DwriteVcd=1
+1678633954149:testOnly vector.SequencerTest -- -DwriteVcd=1
+1678742584971:testOnly vector.VectorALUTest -- -DwriteVcd=1
+1691049308558:testOnly practice.chiseltest
+1691050051543:testOnly practice.ortest
+1691050173424:testOnly practice.ortest -- -DwriteVcd=1
+1691050740383:testOnly practice.ortest
+1691051325653:testOnly practice.nortest
+1691057460826:testOnly practice.xnortest
+1691058838511:testOnly practice.halfaddertest
+1691395925184:testOnly lab1.counter_up_downtest
+1691397614386:testOnly lab1.counter_up_downtest -- -DWriteVcd=1
+1691397684779:testOnly lab1.counter_up_downtest -- -DwriteVcd=1
+1691397875461:testOnly lab1.counter_up_downtest
+1691397897085:testOnly lab1.counter_up_downtest -- -DwriteVcd=1
+1691398028636:testOnly lab1.counter_up_downtest
+1691398033093:testOnly lab1.counter_up_downtest -- -DwriteVcd=1
+1691398079068:testOnly lab1.counter_up_downtest
+1691398088100:testOnly lab1.counter_up_downtest -- -DwriteVcd=1
+1691401094800:testOnly lab1.Counter1Test ---- -DwriteVcd=1 -DwriteVcd=1
+1691401108456:testOnly lab1.Counter1Test -- -DwriteVcd=1 -DwriteVcd=1
+1691401497065:testOnly lab1.Counter1Test ---- -DwriteVcd=1
+1691401507861:testOnly lab1.Counter1Test -- -DwriteVcd=1
+1691402803419:testOnly lab1.check2Test -- -DwriteVcd=1
+1692174981531:testOnly lab3.BranchControltest
+1692184230613:testOnly lab3.ImmdValGentest
+1692184370066:testOnly lab3.ImmdValGentest -- -DwriteVcd=1
+1692204299043:testOnly lab3.task2test -- -DwriteVcd=1
+1692204639405:testOnly lab3.ImmdValGentest -- -DwriteVcd=1
+1692210706283:testOnly lab3.task3test -- -DwriteVcd=1
+1703237978190:testOnly ASICPractice.SyncReadWriteMemtest -- -DwriteVcd=1
+1708668073011:testOnly ASICPractice.RandomNumberGeneratortest -- -DwriteVcd=1
+1716811458347:testOnly Fivestages.Toptes
+1716811492148:testOnly Fivestages.Toptest
+1717153696132:testOnly Fivestages.divtest
+1717155467656:testOnly Fivestages.divtest -- -DwriteVcd=1

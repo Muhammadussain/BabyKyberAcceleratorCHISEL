@@ -1,0 +1,21 @@
+#Successful Tests
+#Fri May 31 17:53:29 PKT 2024
+ASICPractice.SyncReadWriteMemtest=1703239066467
+datapath.toptest=1669230754466
+practice.ortest=1691050939507
+matrixadd.matrixaddertest=1673030087469
+practice.nortest=1691056507189
+lab1.check2Test=1691405292778
+vector.VectorALUTest=1679236860021
+lab3.task3test=1692210797129
+vector.SequencerTest=1678640006404
+Fivestages.divtest=1717160009203
+singlecycle.toptest=1671387252690
+vector.VectorRegisterFileTest=1678300427827
+lab3.BranchControltest=1692175356246
+practice.chiseltest=1691049466286
+lab3.ImmdValGentest=1692208960540
+lab1.counter_up_downtest=1691400438246
+practice.halfaddertest=1691184352350
+lab1.Counter1Test=1691402154480
+lab3.task2test=1692204342606

@@ -1,0 +1,44 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly components.VectorRegisterFileTest -- -DwriteVcd=1, Some(12c57138-bb12-4c92-8614-2431ece83710), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 25 Scala sources to /home/hamna/Scala-Chisel-Learning-Journey/target/scala-2.12/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/ALU.scala:5:31: not found: type Configs[0m
+[0m[[0m[31merror[0m] [0m[0mclass ALU(implicit val config:Configs) extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/PC.scala:6:39: value W is not a member of chisel3.internal.firrtl.Width[0m
+[0m[[0m[31merror[0m] [0m[0m    val in = Input(SInt(config.XLEN.W.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/PC.scala:8:41: value W is not a member of chisel3.internal.firrtl.Width[0m
+[0m[[0m[31merror[0m] [0m[0m    val out = Output(SInt(config.XLEN.W.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/PC.scala:9:41: value W is not a member of chisel3.internal.firrtl.Width[0m
+[0m[[0m[31merror[0m] [0m[0m    val pc4 = Output(SInt(config.XLEN.W.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/PC.scala:10:41: value W is not a member of chisel3.internal.firrtl.Width[0m
+[0m[[0m[31merror[0m] [0m[0m    val pc2 = Output(SInt(config.XLEN.W.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/Execute.scala:33:24: not found: type ALU[0m
+[0m[[0m[31merror[0m] [0m[0m  val alu = Module(new ALU)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/MDU.scala:21:40: not found: value config[0m
+[0m[[0m[31merror[0m] [0m[0m        val src_a         = Input(UInt(config.XLEN.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/MDU.scala:22:40: not found: value config[0m
+[0m[[0m[31merror[0m] [0m[0m        val src_b         = Input(UInt(config.XLEN.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/MDU.scala:27:47: not found: value config[0m
+[0m[[0m[31merror[0m] [0m[0m        val output        = Valid(Output(UInt(config.XLEN.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/MDU.scala:43:34: not found: value config[0m
+[0m[[0m[31merror[0m] [0m[0m    val r_dividend = RegInit(0.U(config.XLEN.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/MDU.scala:44:34: not found: value config[0m
+[0m[[0m[31merror[0m] [0m[0m    val r_quotient = RegInit(0.U(config.XLEN.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/components/PC.scala:13:55: value W is not a member of chisel3.internal.firrtl.Width[0m
+[0m[[0m[31merror[0m] [0m[0m  val pc_reg = RegInit((0x0-0x4).asSInt(config.XLEN.W.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m12 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 3 s, completed Mar 7, 2023, 1:41:20 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

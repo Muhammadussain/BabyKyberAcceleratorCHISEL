@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/main/scala/Fivestages/div.scala:13:15: not found: value ceil[0m
+[0m[[0m[31merror[0m] [0m[0m io.output := ceil(temp)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

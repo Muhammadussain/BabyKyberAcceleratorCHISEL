@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly vector.VectorRegisterFileTest -- -DwriteVcd=1, Some(47d61581-f585-4552-87ab-1bb8457156c7), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/hamna/Scala-Chisel-Learning-Journey/target/scala-2.12/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mVectorRegisterFileTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- VectorRegisterFile *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  chisel3.internal.ChiselException: Error: Not in a UserModule. Likely cause: Missed Module() wrap, bare chisel API call, or attempting to construct hardware inside a BlackBox.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.internal.throwException$.apply(Error.scala:155)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.internal.Builder$.forcedUserModule(Builder.scala:494)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.WireFactory.apply(Data.scala:620)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.WireFactory.apply$(Data.scala:613)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.Wire$.apply(Data.scala:651)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.VecInit$.do_apply(Aggregate.scala:348)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at vector.VectorRegisterFileTest.$anonfun$new$3(vregtest.scala:15)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at vector.VectorRegisterFileTest.$anonfun$new$3$adapted(vregtest.scala:11)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chiseltest.backends.treadle.TreadleBackend.$anonfun$run$1(TreadleBackend.scala:152)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chiseltest.internal.ThreadedBackend$TesterThread$$anon$1.$anonfun$run$1(ThreadedBackend.scala:507)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 4 seconds, 541 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	vector.VectorRegisterFileTest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtestOnly[0m) sbt.TestsFailedException: Tests unsuccessful[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 7 s, completed Mar 7, 2023, 3:28:54 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m
