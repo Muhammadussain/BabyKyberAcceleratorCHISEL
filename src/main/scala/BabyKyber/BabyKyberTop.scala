@@ -78,4 +78,5 @@ class babykyber_top extends BlackBox() with HasBlackBoxResource {
     addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/KeyGeneration.sv")
     addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/PolynomialMatrixMultiplication.sv")
     addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/Top.sv")
+    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/MatrixTranspose.sv")
 }
