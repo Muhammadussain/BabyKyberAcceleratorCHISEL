@@ -73,9 +73,9 @@ class BabyKyberIO extends Bundle{
 
 class babykyber_top extends BlackBox() with HasBlackBoxResource {
     val io = IO(new BabyKyberIO)
-    addResource("/home/hamna/BabyKyberAcceleratorCHISEL/src/main/resources/Baby-Kyber-Accelerator/Decrypt.sv")
-    addResource("/home/hamna/BabyKyberAcceleratorCHISEL/src/main/resources/Baby-Kyber-Accelerator/Encrypt.sv")
-    addResource("/home/hamna/BabyKyberAcceleratorCHISEL/src/main/resources/Baby-Kyber-Accelerator/KeyGeneration.sv")
-    addResource("/home/hamna/BabyKyberAcceleratorCHISEL/src/main/resources/Baby-Kyber-Accelerator/PolynomialMatrixMultiplication.sv")
-    addResource("/home/hamna/BabyKyberAcceleratorCHISEL/src/main/resources/Baby-Kyber-Accelerator/Top.sv")
+    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/Decrypt.sv")
+    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/Encrypt.sv")
+    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/KeyGeneration.sv")
+    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/PolynomialMatrixMultiplication.sv")
+    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/Top.sv")
 }
