@@ -1,0 +1,100 @@
+$date
+2024-08-21T12:55+0000
+$end
+$version
+0.2
+$end
+$comment
+
+$end
+$timescale 1ns  $end
+$scope module BabyKyberTop $end
+ $var wire 1 " _T $end
+ $var wire 32 $ io_rsp_bits_dataResponse $end
+ $var wire 1 ' io_rsp_valid $end
+ $var wire 1 ( io_req_valid $end
+ $var wire 1 * bkyber $end
+ $var wire 1 + clock $end
+ $var wire 1 , validReg $end
+ $var wire 32 - io_req_bits_addrRequest $end
+ $var wire 1 / io_rsp_ready $end
+ $var wire 1 0 io_req_ready $end
+ $var wire 1 3 _GEN_9 $end
+ $var wire 4 4 io_req_bits_activeByteLane $end
+ $var wire 1 5 reset $end
+ $var wire 32 6 _GEN_3 $end
+ $var wire 1 7 io_req_bits_isWrite $end
+ $var wire 32 8 io_req_bits_dataRequest $end
+  $scope module bkyber $end
+   $var wire 1 ! rst_n $end
+   $var wire 1 # enable $end
+   $var wire 8 % bytelane_Req $end
+   $var wire 32 & data_Req $end
+   $var wire 1 ) wen_Req $end
+   $var wire 32 . addr_Req $end
+   $var wire 1 1 clk $end
+   $var wire 32 2 data_Resp $end
+  $upscope $end
+$upscope $end
+$enddefinitions $end
+$dumpvars
+b00000000000000000000000000000000 &
+05
+b00000000000000000000000000000000 6
+b00000000000000000000000000000000 .
+0'
+0/
+0!
+00
+0(
+07
+0"
+01
+b00000000000000000000000000000000 8
+0)
+0#
+0*
+b00000000 %
+b00000000000000000000000000000000 2
+0+
+b00000000000000000000000000000000 $
+b00000000000000000000000000000000 -
+b0000 4
+0,
+03
+$end
+#0
+1!
+10
+15
+1#
+#1
+11
+1+
+#6
+03
+b01000000000000000111000000000000 -
+b11111111 %
+b1111 4
+b01000000000000000111000000000000 .
+b00000000000000000000000000000100 &
+05
+1(
+17
+1)
+0!
+1"
+01
+b00000000000000000000000000000100 8
+0+
+#11
+11
+1+
+#16
+b00000000000000000000000000000000 -
+b0000 4
+01
+b00000000000000000000000000000000 8
+0+
+0(
+07

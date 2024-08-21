@@ -25,7 +25,7 @@ logic signed [31:0] ciphertext[1:0] [1:0][3:0];
 logic signed [31:0] r [1:0][3:0];
 logic signed [31:0] e1 [1:0][3:0];
 logic signed [31:0] e2 [3:0];
-logic signed [3:0] decimal_value;
+logic signed [31:0] decimal_value;
 logic signed [3:0] m_b;
 
 
@@ -325,7 +325,7 @@ Decrypt decryption (
 
         end else if (enable) begin 
             //keygen
-            if (wen_Req == 1'b1  )begin 
+            if (wen_Req == 1'b1  )begin  
                 data_Resp <= 1;
                 $display("checking");
             if ( addr_Req == 'h40007000  )begin

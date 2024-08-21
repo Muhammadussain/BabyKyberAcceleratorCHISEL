@@ -5,7 +5,7 @@ module Decrypt (
     input logic signed [31:0] secret_key [1:0][3:0],
     input logic signed [31:0] ciphertext[1:0][1:0][3:0],
     output logic signed [3:0] m_b, 
-    output logic [3:0] decimal_value    
+    output logic [31:0] decimal_value    
 );
     parameter int Q = 17; 
     logic signed [31:0] poly_out0 [3:0];
