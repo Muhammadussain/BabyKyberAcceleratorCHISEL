@@ -38,7 +38,7 @@ circuit BabyKyberTop :
     node _GEN_3 = validif(_T_2, bkyber.data_Resp) @[BabyKyberTop.scala 46:54 BabyKyberTop.scala 52:15]
     node _GEN_4 = validif(_T, io_req_bits_dataRequest) @[BabyKyberTop.scala 37:47 BabyKyberTop.scala 39:28]
     node _GEN_5 = mux(_T, io_req_bits_addrRequest, _GEN_2) @[BabyKyberTop.scala 37:47 BabyKyberTop.scala 40:28]
-    node _GEN_6 = mux(_T, UInt<1>("h1"), _GEN_1) @[BabyKyberTop.scala 37:47 BabyKyberTop.scala 41:27]
+    node _GEN_6 = mux(_T, io_req_bits_isWrite, _GEN_1) @[BabyKyberTop.scala 37:47 BabyKyberTop.scala 41:27]
     node _GEN_7 = validif(_T, io_req_bits_activeByteLane) @[BabyKyberTop.scala 37:47 BabyKyberTop.scala 42:32]
     node _GEN_8 = mux(_T, bkyber.data_Resp, _GEN_3) @[BabyKyberTop.scala 37:47 BabyKyberTop.scala 43:15]
     node _GEN_9 = mux(_T, validReg, _GEN_0) @[BabyKyberTop.scala 37:47 BabyKyberTop.scala 14:27]

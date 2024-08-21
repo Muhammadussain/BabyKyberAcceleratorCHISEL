@@ -7,10 +7,9 @@
 
 #include "verilated.h"
 
-
 class VTop__Syms;
 
-class alignas(VL_CACHE_LINE_BYTES) VTop___024root final : public VerilatedModule {
+class VTop___024root final : public VerilatedModule {
   public:
 
     // DESIGN SPECIFIC STATE
@@ -23,11 +22,8 @@ class alignas(VL_CACHE_LINE_BYTES) VTop___024root final : public VerilatedModule
         VL_IN8(bytelane_Req,7,0);
         CData/*3:0*/ Top__DOT__m_b;
         CData/*3:0*/ Top__DOT__encryption__DOT__coefficients;
-        CData/*0:0*/ __VstlFirstIteration;
-        CData/*0:0*/ __VicoFirstIteration;
-        CData/*0:0*/ __Vtrigprevexpr___TOP__clk__0;
-        CData/*0:0*/ __Vtrigprevexpr___TOP__rst_n__0;
-        CData/*0:0*/ __VactContinue;
+        CData/*0:0*/ __Vclklast__TOP__clk;
+        CData/*0:0*/ __Vclklast__TOP__rst_n;
         VL_IN(data_Req,31,0);
         VL_IN(addr_Req,31,0);
         VL_OUT(data_Resp,31,0);
@@ -80,11 +76,11 @@ class alignas(VL_CACHE_LINE_BYTES) VTop___024root final : public VerilatedModule
         IData/*31:0*/ Top__DOT__public_key030;
         IData/*31:0*/ Top__DOT__public_key031;
         IData/*31:0*/ Top__DOT__public_key032;
-    };
-    struct {
         IData/*31:0*/ Top__DOT__public_key033;
         IData/*31:0*/ Top__DOT__public_key100;
         IData/*31:0*/ Top__DOT__public_key101;
+    };
+    struct {
         IData/*31:0*/ Top__DOT__public_key102;
         IData/*31:0*/ Top__DOT__public_key103;
         IData/*31:0*/ Top__DOT__public_key110;
@@ -123,31 +119,67 @@ class alignas(VL_CACHE_LINE_BYTES) VTop___024root final : public VerilatedModule
         IData/*31:0*/ Top__DOT__ciphertext101;
         IData/*31:0*/ Top__DOT__ciphertext102;
         IData/*31:0*/ Top__DOT__ciphertext103;
-        IData/*31:0*/ __VactIterCount;
+        IData/*31:0*/ Top__DOT__unnamedblk1__DOT__i;
+        IData/*31:0*/ Top__DOT__unnamedblk1__DOT__unnamedblk2__DOT__j;
+        IData/*31:0*/ Top__DOT__unnamedblk3__DOT__i;
+        IData/*31:0*/ Top__DOT__unnamedblk3__DOT__unnamedblk4__DOT__j;
+        IData/*31:0*/ Top__DOT__unnamedblk5__DOT__i;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk1__DOT__i;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk1__DOT__unnamedblk2__DOT__j;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk4__DOT__i;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk5__DOT__i;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk9__DOT__i;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk9__DOT__unnamedblk10__DOT__j;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk11__DOT__i;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk11__DOT__unnamedblk12__DOT__j;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk6__DOT__i;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk6__DOT__unnamedblk7__DOT__j;
+        IData/*31:0*/ Top__DOT__keygen__DOT__unnamedblk6__DOT__unnamedblk7__DOT__unnamedblk8__DOT__k;
+        IData/*31:0*/ Top__DOT__encryption__DOT__unnamedblk2__DOT__i;
+        IData/*31:0*/ Top__DOT__encryption__DOT__unnamedblk1__DOT__j;
+        IData/*31:0*/ Top__DOT__encryption__DOT__unnamedblk4__DOT__i;
+        IData/*31:0*/ Top__DOT__encryption__DOT__unnamedblk5__DOT__i;
         VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT__secretkey;
         VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT__result;
         VlUnpacked<VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 4>, 2> Top__DOT__public_key;
         VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 4> Top__DOT__A_reg;
         VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT__s_reg;
         VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT__e_reg;
+    };
+    struct {
         VlUnpacked<VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2>, 2> Top__DOT__ciphertext;
         VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT__r;
         VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT__e1;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__e2;
+        VlUnpacked<VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 4>, 2> Top__DOT____Vcellout__keygen__combined_output;
+        VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT____Vcellout__keygen__result;
+        VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT____Vcellout__keygen__secretkey;
+        VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT____Vcellinp__keygen__e;
+        VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT____Vcellinp__keygen__secret_key;
+        VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 4> Top__DOT____Vcellinp__keygen__A;
+        VlUnpacked<VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2>, 2> Top__DOT____Vcellout__encryption__ciphertext;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT____Vcellinp__encryption__e2;
+        VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT____Vcellinp__encryption__e1;
+        VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT____Vcellinp__encryption__r;
+        VlUnpacked<VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 4>, 2> Top__DOT____Vcellinp__encryption__combined_output;
+        VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT____Vcellinp__decryption__secret_key;
+        VlUnpacked<VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2>, 2> Top__DOT____Vcellinp__decryption__ciphertext;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT__poly_out0;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT__poly_out1;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT__poly_out2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT__poly_out3;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT__added;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT__added1;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1;
-    };
-    struct {
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result;
@@ -167,17 +199,27 @@ class alignas(VL_CACHE_LINE_BYTES) VTop___024root final : public VerilatedModule
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT__coefficients_scaled;
         VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 2> Top__DOT__encryption__DOT__u;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT__v;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT__temp;
+        VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 4> Top__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out;
         VlUnpacked<VlUnpacked<IData/*31:0*/, 4>, 4> Top__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial1;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial1;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial1;
+    };
+    struct {
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial1;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial1;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial1;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result;
@@ -189,29 +231,28 @@ class alignas(VL_CACHE_LINE_BYTES) VTop___024root final : public VerilatedModule
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT__poly_out0;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT__poly_out1;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT__temp_m_n;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial1;
+        VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT__poly_mult1__DOT__temp_result;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT__poly_mult2__DOT__temp_result;
+        VlUnpacked<CData/*0:0*/, 5> __Vm_traceActivity;
     };
-    VlTriggerVec<1> __VstlTriggered;
-    VlTriggerVec<1> __VicoTriggered;
-    VlTriggerVec<1> __VactTriggered;
-    VlTriggerVec<1> __VnbaTriggered;
 
     // INTERNAL VARIABLES
     VTop__Syms* const vlSymsp;
 
     // CONSTRUCTORS
-    VTop___024root(VTop__Syms* symsp, const char* v__name);
+    VTop___024root(VTop__Syms* symsp, const char* name);
     ~VTop___024root();
     VL_UNCOPYABLE(VTop___024root);
 
     // INTERNAL METHODS
     void __Vconfigure(bool first);
-};
+} VL_ATTR_ALIGNED(VL_CACHE_LINE_BYTES);
 
 
 #endif  // guard

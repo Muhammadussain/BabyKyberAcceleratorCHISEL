@@ -1,7 +1,11 @@
 [
   {
-    "class":"firrtl.stage.FirrtlFileAnnotation",
-    "file":"test_run_dir/BabyKyberTop_Test/BabyKyberTop.lo.fir"
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~BabyKyberTop|BabyKyberTop>io_rsp_valid",
+    "sources":[
+      "~BabyKyberTop|BabyKyberTop>io_req_valid",
+      "~BabyKyberTop|BabyKyberTop>io_req_bits_isWrite"
+    ]
   },
   {
     "class":"firrtl.transforms.CombinationalPath",
@@ -13,7 +17,7 @@
   },
   {
     "class":"firrtl.EmitCircuitAnnotation",
-    "emitter":"firrtl.LowFirrtlEmitter"
+    "emitter":"firrtl.VerilogEmitter"
   },
   {
     "class":"firrtl.transforms.DontTouchAnnotation",

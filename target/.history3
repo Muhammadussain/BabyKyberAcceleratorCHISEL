@@ -64,3 +64,13 @@
 1724238487315:testOnly BabyKyber.BabyKyberTopTests
 1724238732569:testOnly BabyKyber.BabyKyberTopTests -- -DwriteVcd=1
 1724245276998:exit
+1724245621892:testOnly BabyKyber.BabyKyberTopTests -- -DwriteVcd=1
+1724247782150:exit
+1724268826390:testOnly BabyKyber.BabyKyberTopTests -- -DwriteVcd=1
+1724269750446:exit
+1724271961907:testOnly BabyKyber.BabyKyberTopTests -- -DwriteVcd=1
+1724272285368:exit
+1724272601777:testOnly BabyKyber.BabyKyberTopTests -- -DwriteVcd=1
+1724272665956:exit
+1724272895151:testOnly BabyKyber.BabyKyberTopTests -- -DwriteVcd=1
+1724273679620:exit

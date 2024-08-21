@@ -11,7 +11,7 @@ class BabyKyberTop extends Module {
         val rsp = Decoupled(new ResponseIO)
     })
 
-    val validReg = RegInit(false.B)
+    val validReg = WireInit(false.B)
     io.rsp.valid := validReg
     io.req.ready := true.B
 
@@ -36,9 +36,10 @@ class BabyKyberTop extends Module {
 
     when(io.req.valid && io.req.bits.isWrite) {
         //write
+        bkyber.io.rst_n := 1.B
         bkyber.io.data_Req := io.req.bits.dataRequest
         bkyber.io.addr_Req := io.req.bits.addrRequest
-        bkyber.io.wen_Req := true.B
+        bkyber.io.wen_Req := io.req.bits.isWrite
         bkyber.io.bytelane_Req := io.req.bits.activeByteLane
         rdata := bkyber.io.data_Resp
 

@@ -1,7 +1,7 @@
 // Verilated -*- C++ -*-
 // DESCRIPTION: Verilator output: Symbol table implementation internals
 
-#include "VBabyKyberTop__pch.h"
+#include "VBabyKyberTop__Syms.h"
 #include "VBabyKyberTop.h"
 #include "VBabyKyberTop___024root.h"
 
@@ -17,8 +17,6 @@ VBabyKyberTop__Syms::VBabyKyberTop__Syms(VerilatedContext* contextp, const char*
     // Setup module instances
     , TOP{this, namep}
 {
-        // Check resources
-        Verilated::stackCheck(1197);
     // Configure time unit / time precision
     _vm_contextp__->timeunit(-12);
     _vm_contextp__->timeprecision(-12);

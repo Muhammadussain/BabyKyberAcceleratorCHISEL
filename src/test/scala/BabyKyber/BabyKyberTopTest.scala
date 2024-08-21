@@ -11,14 +11,14 @@ import chiseltest.internal.VerilatorBackendAnnotation
 
 class BabyKyberTopTests extends FreeSpec with ChiselScalatestTester {
   "BabyKyberTop Test" in {
-    test(new BabyKyberTop) { c =>
+    test(new BabyKyberTop).withAnnotations(Seq(VerilatorBackendAnnotation)) { c =>
       c.io.req.valid.poke(true.B)
       c.io.req.bits.isWrite.poke(true.B)
-      c.io.req.bits.dataRequest.poke(4.S)
+      c.io.req.bits.dataRequest.poke(42.S)
       c.io.req.bits.addrRequest.poke(0x40007000.S)
       c.io.req.bits.activeByteLane.poke(0xFF.S)
 
-      c.clock.step(1)
+      c.clock.step(10)
 
 
       c.io.rsp.valid.expect(false.B) 

@@ -8,6 +8,5 @@ verilated.o: /home/hamna/verilator/include/verilated.cpp VBabyKyberTop.h \
  /home/hamna/verilator/include/verilated.h \
  /home/hamna/verilator/include/verilated_syms.h \
  /home/hamna/verilator/include/verilated_sym_props.h \
- /home/hamna/verilator/include/verilated_threads.h \
  /home/hamna/verilator/include/verilated_trace.h \
- /home/hamna/verilator/include/verilatedos_c.h
+ /home/hamna/verilator/include/verilated_trace_defs.h

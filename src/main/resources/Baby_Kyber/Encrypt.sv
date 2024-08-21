@@ -90,7 +90,7 @@ module Encrypt (
         .polynomial_out(poly_out5)
     );
 
-    always_ff @(posedge clk or negedge rst_n) begin
+    always_ff @(posedge clk ) begin
         if (!rst_n) begin
                 for (int j = 0; j < 4; j++) begin
                     coefficients[j] <= 0;
