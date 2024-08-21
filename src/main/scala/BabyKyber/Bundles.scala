@@ -1,4 +1,4 @@
-package BabyKyberAcceleratorCHISEL.BabyKyber
+package BabyKyber
 
 import chisel3._
 import chisel3.util._
@@ -6,12 +6,12 @@ import chisel3.experimental._
 import chisel3.util.experimental._
 
 class RequestIO extends Bundle {
-  val addrRequest: UInt = Input(UInt(32.W))
-  val dataRequest: UInt = Input(UInt(32.W))
-  val activeByteLane: UInt = Input(UInt(4.W))
+  val addrRequest: SInt = Input(SInt(32.W))
+  val dataRequest: SInt = Input(SInt(32.W))
+  val activeByteLane: SInt = Input(SInt(4.W))
   val isWrite: Bool = Input(Bool())
 }
 
 class ResponseIO extends Bundle {
-  val dataResponse: UInt = Input(UInt(32.W))
+  val dataResponse: SInt = Input(SInt(32.W))
 }

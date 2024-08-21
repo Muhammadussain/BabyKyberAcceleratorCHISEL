@@ -1,0 +1,6 @@
+/home/hamna/BabyKyberAcceleratorCHISEL/test_run_dir/BabyKyberTop_Test/MatrixTranspose.sv
+/home/hamna/BabyKyberAcceleratorCHISEL/test_run_dir/BabyKyberTop_Test/PolynomialMatrixMultiplication.sv
+/home/hamna/BabyKyberAcceleratorCHISEL/test_run_dir/BabyKyberTop_Test/KeyGeneration.sv
+/home/hamna/BabyKyberAcceleratorCHISEL/test_run_dir/BabyKyberTop_Test/Encrypt.sv
+/home/hamna/BabyKyberAcceleratorCHISEL/test_run_dir/BabyKyberTop_Test/Decrypt.sv
+/home/hamna/BabyKyberAcceleratorCHISEL/test_run_dir/BabyKyberTop_Test/Top.sv

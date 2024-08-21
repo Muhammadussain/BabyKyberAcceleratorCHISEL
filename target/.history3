@@ -55,3 +55,9 @@
 1716811492148:testOnly Fivestages.Toptest
 1717153696132:testOnly Fivestages.divtest
 1717155467656:testOnly Fivestages.divtest -- -DwriteVcd=1
+1724220601257:testOnly BabyKyber.BabyKyberTopTests
+1724222764890:exit
+1724222880018:testOnly BabyKyber.BabyKyberTopTests
+1724222972215:exit
+1724222990410:testOnly BabyKyber.BabyKyberTopTests
+1724229869799:exit

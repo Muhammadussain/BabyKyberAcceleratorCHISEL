@@ -1,6 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m/home/hamna/Scala-Chisel-Learning-Journey/src/test/scala/Fivestages/divtest.scala:11:24: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : chisel3.UInt[0m
-[0m[[0m[31merror[0m] [0m[0m required: chisel3.SInt[0m
-[0m[[0m[31merror[0m] [0m[0m		a.io.output.expect(2.U)[0m
-[0m[[0m[31merror[0m] [0m[0m		                     ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/BabyKyberAcceleratorCHISEL/src/test/scala/BabyKyber/BabyKyberTopTest.scala:10:8: object VerilatorCFlags is not a member of package chiseltest.internal[0m
+[0m[[0m[31merror[0m] [0m[0mimport chiseltest.internal.VerilatorCFlags[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hamna/BabyKyberAcceleratorCHISEL/src/test/scala/BabyKyber/BabyKyberTopTest.scala:15:76: not found: value VerilatorCFlags[0m
+[0m[[0m[31merror[0m] [0m[0m    test(new BabyKyberTop).withAnnotations(Seq(VerilatorBackendAnnotation, VerilatorCFlags(Seq("-I/home/hamna/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/")))) { c =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

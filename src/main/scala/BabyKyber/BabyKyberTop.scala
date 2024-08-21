@@ -1,4 +1,4 @@
-package BabyKyberAcceleratorCHISEL.BabyKyber
+package BabyKyber
 
 import chisel3._
 import chisel3.util._
@@ -15,10 +15,10 @@ class BabyKyberTop extends Module {
     io.rsp.valid := validReg
     io.req.ready := true.B
 
-    val rdata = Wire(UInt(32.W))
+    val rdata = Wire(SInt(32.W))
 
     // the accelerator
-    val bkyber = Module(new babykyber_top)
+    val bkyber = Module(new Top)
 
     val clk = WireInit(clock.asUInt()(0))
     val rst = Wire(Bool())
@@ -46,9 +46,8 @@ class BabyKyberTop extends Module {
     }.elsewhen(io.req.valid && !io.req.bits.isWrite) {
         //read
         validReg := true.B
-        bkyber.io.csb_i := false.B
-        bkyber.io.we_i := false.B
-        bkyber.io.addr_i := io.req.bits.addrRequest
+        bkyber.io.wen_Req := false.B
+        bkyber.io.addr_Req := io.req.bits.addrRequest
 
         rdata := bkyber.io.data_Resp
     }.otherwise {
@@ -67,16 +66,16 @@ class BabyKyberIO extends Bundle{
     val data_Req = Input(SInt(32.W))
     val addr_Req = Input(SInt(32.W))
     val wen_Req = Input(Bool())
-    val bytelane_Req = Input(UInt(8.W))
+    val bytelane_Req = Input(SInt(8.W))
     val data_Resp = Output(SInt(32.W))
 }
 
-class babykyber_top extends BlackBox() with HasBlackBoxResource {
+class Top extends BlackBox() with HasBlackBoxResource {
     val io = IO(new BabyKyberIO)
-    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/Decrypt.sv")
-    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/Encrypt.sv")
-    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/KeyGeneration.sv")
-    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/PolynomialMatrixMultiplication.sv")
-    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/Top.sv")
-    addResource("~/BabyKyberAcceleratorCHISEL/src/main/resources/Baby_Kyber/MatrixTranspose.sv")
+    addResource("/Baby_Kyber/Top.sv")
+    addResource("/Baby_Kyber/Decrypt.sv")
+    addResource("/Baby_Kyber/Encrypt.sv")
+    addResource("/Baby_Kyber/KeyGeneration.sv")
+    addResource("/Baby_Kyber/PolynomialMatrixMultiplication.sv")
+    addResource("/Baby_Kyber/MatrixTranspose.sv")
 }

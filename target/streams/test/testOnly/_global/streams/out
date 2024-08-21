@@ -1,10 +1,10 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Fivestages.divtest, org.scalatest.tools.Framework$$anon$1@4be394a, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mdivtest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- div test[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 798 milliseconds.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BabyKyber.BabyKyberTopTests, org.scalatest.tools.Framework$$anon$1@4cad403f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBabyKyberTopTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BabyKyberTop Test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 823 milliseconds.[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Fivestages.divtest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BabyKyber.BabyKyberTopTests[0m
