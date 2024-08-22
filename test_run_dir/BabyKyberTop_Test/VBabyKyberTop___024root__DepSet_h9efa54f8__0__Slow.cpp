@@ -3188,9 +3188,9 @@ VL_ATTR_COLD void VBabyKyberTop___024root___eval_initial(VBabyKyberTop___024root
     VL_DEBUG_IF(VL_DBG_MSGF("+    VBabyKyberTop___024root___eval_initial\n"); );
     // Body
     VBabyKyberTop___024root___initial__TOP__0(vlSelf);
+    vlSelf->__Vclklast__TOP__clock = vlSelf->clock;
     vlSelf->__Vclklast__TOP____VinpClk__TOP__BabyKyberTop__DOT__bkyber_rst_n 
         = vlSelf->__VinpClk__TOP__BabyKyberTop__DOT__bkyber_rst_n;
-    vlSelf->__Vclklast__TOP__clock = vlSelf->clock;
 }
 
 VL_ATTR_COLD void VBabyKyberTop___024root___eval_settle(VBabyKyberTop___024root* vlSelf) {
@@ -3199,6 +3199,8 @@ VL_ATTR_COLD void VBabyKyberTop___024root___eval_settle(VBabyKyberTop___024root*
     VL_DEBUG_IF(VL_DBG_MSGF("+    VBabyKyberTop___024root___eval_settle\n"); );
     // Body
     VBabyKyberTop___024root___settle__TOP__0(vlSelf);
+    vlSelf->__Vm_traceActivity[3U] = 1U;
+    vlSelf->__Vm_traceActivity[2U] = 1U;
     vlSelf->__Vm_traceActivity[1U] = 1U;
     vlSelf->__Vm_traceActivity[0U] = 1U;
 }
@@ -3688,7 +3690,7 @@ VL_ATTR_COLD void VBabyKyberTop___024root___ctor_var_reset(VBabyKyberTop___024ro
     }
     vlSelf->__VinpClk__TOP__BabyKyberTop__DOT__bkyber_rst_n = VL_RAND_RESET_I(1);
     vlSelf->__Vchglast__TOP__BabyKyberTop__DOT__bkyber_rst_n = VL_RAND_RESET_I(1);
-    for (int __Vi0=0; __Vi0<2; ++__Vi0) {
+    for (int __Vi0=0; __Vi0<4; ++__Vi0) {
         vlSelf->__Vm_traceActivity[__Vi0] = VL_RAND_RESET_I(1);
     }
 }

@@ -235,131 +235,9 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
     IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__secretkey__v6;
     IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__secretkey__v7;
     CData/*0:0*/ __Vdlyvset__Top__DOT____Vcellout__keygen__secretkey__v8;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v3;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v5;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v6;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v7;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v8;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v9;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v10;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v11;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v12;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v13;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v14;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v15;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v16;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v17;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v18;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v19;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v20;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v21;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v22;
-    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v23;
-    CData/*0:0*/ __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v24;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v4;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v1;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v2;
-    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v3;
-    CData/*0:0*/ __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v4;
     // Body
-    __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v4 = 0U;
-    __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v4 = 0U;
-    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v4 = 0U;
-    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v4 = 0U;
-    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v4 = 0U;
-    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v4 = 0U;
     __Vdlyvset__Top__DOT____Vcellout__keygen__secretkey__v0 = 0U;
     __Vdlyvset__Top__DOT____Vcellout__keygen__secretkey__v8 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v4 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v4 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v4 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v4 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v4 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0 = 0U;
-    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v4 = 0U;
     __Vdly__Top__DOT__ciphertext103 = vlSelf->Top__DOT__ciphertext103;
     __Vdly__Top__DOT__ciphertext102 = vlSelf->Top__DOT__ciphertext102;
     __Vdly__Top__DOT__ciphertext101 = vlSelf->Top__DOT__ciphertext101;
@@ -449,6 +327,11 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
     __Vdly__Top__DOT__A_t002 = vlSelf->Top__DOT__A_t002;
     __Vdly__Top__DOT__A_t001 = vlSelf->Top__DOT__A_t001;
     __Vdly__Top__DOT__A_t000 = vlSelf->Top__DOT__A_t000;
+    if ((1U & (~ (IData)(vlSelf->rst_n)))) {
+        vlSelf->Top__DOT__keygen__DOT__unnamedblk1__DOT__unnamedblk2__DOT__j = 4U;
+        vlSelf->Top__DOT__keygen__DOT__unnamedblk1__DOT__i = 2U;
+        vlSelf->Top__DOT__encryption__DOT__unnamedblk1__DOT__j = 4U;
+    }
     __Vdlyvset__Top__DOT__secretkey__v8 = 0U;
     __Vdlyvset__Top__DOT__A_reg__v0 = 0U;
     __Vdlyvset__Top__DOT__A_reg__v1 = 0U;
@@ -457,101 +340,9 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
     __Vdlyvset__Top__DOT__ciphertext__v0 = 0U;
     __Vdlyvset__Top__DOT__ciphertext__v1 = 0U;
     __Vdlyvset__Top__DOT__ciphertext__v13 = 0U;
-    if ((1U & (~ (IData)(vlSelf->rst_n)))) {
-        vlSelf->Top__DOT__keygen__DOT__unnamedblk1__DOT__unnamedblk2__DOT__j = 4U;
-        vlSelf->Top__DOT__keygen__DOT__unnamedblk1__DOT__i = 2U;
-        vlSelf->Top__DOT__keygen__DOT__unnamedblk6__DOT__unnamedblk7__DOT__unnamedblk8__DOT__k = 4U;
-        vlSelf->Top__DOT__keygen__DOT__unnamedblk6__DOT__unnamedblk7__DOT__j = 4U;
-        vlSelf->Top__DOT__keygen__DOT__unnamedblk6__DOT__i = 2U;
-        vlSelf->Top__DOT__encryption__DOT__unnamedblk1__DOT__j = 4U;
-    }
-    __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v0 = 0U;
-    __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v24 = 0U;
     if (vlSelf->rst_n) {
         if (vlSelf->enable) {
-            vlSelf->Top__DOT__keygen__DOT__unnamedblk9__DOT__unnamedblk10__DOT__j = 4U;
-            vlSelf->Top__DOT__keygen__DOT__unnamedblk11__DOT__unnamedblk12__DOT__j = 4U;
-            vlSelf->Top__DOT__keygen__DOT__unnamedblk9__DOT__i = 4U;
-            vlSelf->Top__DOT__keygen__DOT__unnamedblk11__DOT__i = 2U;
             vlSelf->Top__DOT__encryption__DOT__unnamedblk2__DOT__i = 4U;
-            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0 
-                = vlSelf->Top__DOT__decryption__DOT__poly_mult2__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v1 
-                = vlSelf->Top__DOT__decryption__DOT__poly_mult2__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v2 
-                = vlSelf->Top__DOT__decryption__DOT__poly_mult2__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v3 
-                = vlSelf->Top__DOT__decryption__DOT__poly_mult2__DOT__temp_result
-                [3U];
-            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0 
-                = vlSelf->Top__DOT__decryption__DOT__poly_mult1__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v1 
-                = vlSelf->Top__DOT__decryption__DOT__poly_mult1__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v2 
-                = vlSelf->Top__DOT__decryption__DOT__poly_mult1__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v3 
-                = vlSelf->Top__DOT__decryption__DOT__poly_mult1__DOT__temp_result
-                [3U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v1 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v2 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v3 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                [3U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v1 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v2 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v3 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                [3U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v1 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v2 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v3 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                [3U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v1 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v2 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v3 
-                = vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                [3U];
             __Vdlyvval__Top__DOT____Vcellout__keygen__secretkey__v0 
                 = vlSelf->Top__DOT____Vcellinp__keygen__secret_key
                 [0U][0U];
@@ -579,100 +370,10 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
                 [1U][3U];
             vlSelf->Top__DOT__encryption__DOT__coefficients 
                 = (0xfU & vlSelf->Top__DOT__message);
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v1 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v2 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v3 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result
-                [3U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v1 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v2 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v3 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result
-                [3U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v1 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v2 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v3 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result
-                [3U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v1 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v2 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v3 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result
-                [3U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v1 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v2 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v3 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result
-                [3U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result
-                [0U];
-            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0 = 1U;
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v1 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result
-                [1U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v2 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result
-                [2U];
-            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v3 
-                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result
-                [3U];
         }
     } else {
-        __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v4 = 1U;
-        __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v4 = 1U;
-        __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v4 = 1U;
-        __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v4 = 1U;
-        __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v4 = 1U;
-        __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v4 = 1U;
         __Vdlyvset__Top__DOT____Vcellout__keygen__secretkey__v8 = 1U;
         vlSelf->Top__DOT__encryption__DOT__coefficients = 0U;
-        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v4 = 1U;
-        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v4 = 1U;
-        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v4 = 1U;
-        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v4 = 1U;
-        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v4 = 1U;
-        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v4 = 1U;
     }
     if (vlSelf->rst_n) {
         if (vlSelf->enable) {
@@ -1393,181 +1094,6 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
         __Vdly__Top__DOT__ciphertext103 = 0U;
         __Vdlyvset__Top__DOT__ciphertext__v13 = 1U;
     }
-    if (vlSelf->rst_n) {
-        if (vlSelf->enable) {
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v0 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [0U][0U];
-            __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v0 = 1U;
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v1 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [0U][1U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v2 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [0U][2U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v3 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [0U][3U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v4 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [1U][0U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v5 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [1U][1U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v6 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [1U][2U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v7 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [1U][3U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v8 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [2U][0U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v9 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [2U][1U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v10 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [2U][2U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v11 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [2U][3U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v12 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [3U][0U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v13 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [3U][1U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v14 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [3U][2U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v15 
-                = vlSelf->Top__DOT____Vcellinp__keygen__A
-                [3U][3U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v16 
-                = vlSelf->Top__DOT____Vcellout__keygen__result
-                [0U][0U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v17 
-                = vlSelf->Top__DOT____Vcellout__keygen__result
-                [0U][1U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v18 
-                = vlSelf->Top__DOT____Vcellout__keygen__result
-                [0U][2U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v19 
-                = vlSelf->Top__DOT____Vcellout__keygen__result
-                [0U][3U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v20 
-                = vlSelf->Top__DOT____Vcellout__keygen__result
-                [1U][0U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v21 
-                = vlSelf->Top__DOT____Vcellout__keygen__result
-                [1U][1U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v22 
-                = vlSelf->Top__DOT____Vcellout__keygen__result
-                [1U][2U];
-            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v23 
-                = vlSelf->Top__DOT____Vcellout__keygen__result
-                [1U][3U];
-        }
-    } else {
-        __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v24 = 1U;
-    }
-    if (__Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0) {
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v1;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v2;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v4) {
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0) {
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v1;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v2;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v4) {
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0) {
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v1;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v2;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v4) {
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0) {
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v1;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v2;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v4) {
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0) {
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v1;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v2;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v4) {
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0) {
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v1;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v2;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v4) {
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[3U] = 0U;
-    }
     if (__Vdlyvset__Top__DOT____Vcellout__keygen__secretkey__v0) {
         vlSelf->Top__DOT____Vcellout__keygen__secretkey[0U][0U] 
             = __Vdlyvval__Top__DOT____Vcellout__keygen__secretkey__v0;
@@ -1595,102 +1121,6 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
         vlSelf->Top__DOT____Vcellout__keygen__secretkey[1U][1U] = 0U;
         vlSelf->Top__DOT____Vcellout__keygen__secretkey[1U][2U] = 0U;
         vlSelf->Top__DOT____Vcellout__keygen__secretkey[1U][3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v1;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v2;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v4) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v1;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v2;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v4) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v1;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v2;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v4) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v1;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v2;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v4) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v1;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v2;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v4) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[3U] = 0U;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[0U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[1U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v1;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[2U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v2;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[3U] 
-            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v3;
-    }
-    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v4) {
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[0U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[1U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[2U] = 0U;
-        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[3U] = 0U;
     }
     vlSelf->Top__DOT__A_t000 = __Vdly__Top__DOT__A_t000;
     vlSelf->Top__DOT__A_t001 = __Vdly__Top__DOT__A_t001;
@@ -2019,6 +1449,846 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
         vlSelf->Top__DOT__public_key[0U][3U][3U] = 0U;
         vlSelf->Top__DOT__public_key[1U][3U][3U] = 0U;
     }
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][3U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][2U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][1U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][0U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][3U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][2U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][1U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][0U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][3U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][2U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][1U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][0U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][3U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][2U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][1U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][0U];
+    vlSelf->Top__DOT__secretkey[1U][3U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][3U];
+    vlSelf->Top__DOT__secretkey[1U][2U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][2U];
+    vlSelf->Top__DOT__secretkey[1U][1U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][1U];
+    vlSelf->Top__DOT__secretkey[1U][0U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [1U][0U];
+    vlSelf->Top__DOT__secretkey[0U][3U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][3U];
+    vlSelf->Top__DOT__secretkey[0U][2U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][2U];
+    vlSelf->Top__DOT__secretkey[0U][1U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][1U];
+    vlSelf->Top__DOT__secretkey[0U][0U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
+        [0U][0U];
+    vlSelf->Top__DOT__encryption__DOT__coefficients_scaled[0U] 
+        = ((1U & (IData)(vlSelf->Top__DOT__encryption__DOT__coefficients))
+            ? 9U : 0U);
+    vlSelf->Top__DOT__encryption__DOT__coefficients_scaled[1U] 
+        = ((2U & (IData)(vlSelf->Top__DOT__encryption__DOT__coefficients))
+            ? 9U : 0U);
+    vlSelf->Top__DOT__encryption__DOT__coefficients_scaled[2U] 
+        = ((4U & (IData)(vlSelf->Top__DOT__encryption__DOT__coefficients))
+            ? 9U : 0U);
+    vlSelf->Top__DOT__encryption__DOT__coefficients_scaled[3U] 
+        = ((8U & (IData)(vlSelf->Top__DOT__encryption__DOT__coefficients))
+            ? 9U : 0U);
+    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[1U][3U] 
+        = vlSelf->Top__DOT__s_reg[1U][3U];
+    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[1U][2U] 
+        = vlSelf->Top__DOT__s_reg[1U][2U];
+    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[1U][1U] 
+        = vlSelf->Top__DOT__s_reg[1U][1U];
+    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[1U][0U] 
+        = vlSelf->Top__DOT__s_reg[1U][0U];
+    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[0U][3U] 
+        = vlSelf->Top__DOT__s_reg[0U][3U];
+    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[0U][2U] 
+        = vlSelf->Top__DOT__s_reg[0U][2U];
+    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[0U][1U] 
+        = vlSelf->Top__DOT__s_reg[0U][1U];
+    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[0U][0U] 
+        = vlSelf->Top__DOT__s_reg[0U][0U];
+    vlSelf->Top__DOT____Vcellinp__keygen__e[1U][3U] 
+        = vlSelf->Top__DOT__e_reg[1U][3U];
+    vlSelf->Top__DOT____Vcellinp__keygen__e[1U][2U] 
+        = vlSelf->Top__DOT__e_reg[1U][2U];
+    vlSelf->Top__DOT____Vcellinp__keygen__e[1U][1U] 
+        = vlSelf->Top__DOT__e_reg[1U][1U];
+    vlSelf->Top__DOT____Vcellinp__keygen__e[1U][0U] 
+        = vlSelf->Top__DOT__e_reg[1U][0U];
+    vlSelf->Top__DOT____Vcellinp__keygen__e[0U][3U] 
+        = vlSelf->Top__DOT__e_reg[0U][3U];
+    vlSelf->Top__DOT____Vcellinp__keygen__e[0U][2U] 
+        = vlSelf->Top__DOT__e_reg[0U][2U];
+    vlSelf->Top__DOT____Vcellinp__keygen__e[0U][1U] 
+        = vlSelf->Top__DOT__e_reg[0U][1U];
+    vlSelf->Top__DOT____Vcellinp__keygen__e[0U][0U] 
+        = vlSelf->Top__DOT__e_reg[0U][0U];
+    vlSelf->Top__DOT____Vcellinp__encryption__r[1U][3U] 
+        = vlSelf->Top__DOT__r[1U][3U];
+    vlSelf->Top__DOT____Vcellinp__encryption__r[1U][2U] 
+        = vlSelf->Top__DOT__r[1U][2U];
+    vlSelf->Top__DOT____Vcellinp__encryption__r[1U][1U] 
+        = vlSelf->Top__DOT__r[1U][1U];
+    vlSelf->Top__DOT____Vcellinp__encryption__r[1U][0U] 
+        = vlSelf->Top__DOT__r[1U][0U];
+    vlSelf->Top__DOT____Vcellinp__encryption__r[0U][3U] 
+        = vlSelf->Top__DOT__r[0U][3U];
+    vlSelf->Top__DOT____Vcellinp__encryption__r[0U][2U] 
+        = vlSelf->Top__DOT__r[0U][2U];
+    vlSelf->Top__DOT____Vcellinp__encryption__r[0U][1U] 
+        = vlSelf->Top__DOT__r[0U][1U];
+    vlSelf->Top__DOT____Vcellinp__encryption__r[0U][0U] 
+        = vlSelf->Top__DOT__r[0U][0U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e2[3U] 
+        = vlSelf->Top__DOT__e2[3U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e2[2U] 
+        = vlSelf->Top__DOT__e2[2U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e2[1U] 
+        = vlSelf->Top__DOT__e2[1U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e2[0U] 
+        = vlSelf->Top__DOT__e2[0U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e1[1U][3U] 
+        = vlSelf->Top__DOT__e1[1U][3U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e1[1U][2U] 
+        = vlSelf->Top__DOT__e1[1U][2U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e1[1U][1U] 
+        = vlSelf->Top__DOT__e1[1U][1U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e1[1U][0U] 
+        = vlSelf->Top__DOT__e1[1U][0U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e1[0U][3U] 
+        = vlSelf->Top__DOT__e1[0U][3U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e1[0U][2U] 
+        = vlSelf->Top__DOT__e1[0U][2U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e1[0U][1U] 
+        = vlSelf->Top__DOT__e1[0U][1U];
+    vlSelf->Top__DOT____Vcellinp__encryption__e1[0U][0U] 
+        = vlSelf->Top__DOT__e1[0U][0U];
+    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[1U][3U] 
+        = vlSelf->Top__DOT__secretkey[1U][3U];
+    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[1U][2U] 
+        = vlSelf->Top__DOT__secretkey[1U][2U];
+    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[1U][1U] 
+        = vlSelf->Top__DOT__secretkey[1U][1U];
+    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[1U][0U] 
+        = vlSelf->Top__DOT__secretkey[1U][0U];
+    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[0U][3U] 
+        = vlSelf->Top__DOT__secretkey[0U][3U];
+    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[0U][2U] 
+        = vlSelf->Top__DOT__secretkey[0U][2U];
+    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[0U][1U] 
+        = vlSelf->Top__DOT__secretkey[0U][1U];
+    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[0U][0U] 
+        = vlSelf->Top__DOT__secretkey[0U][0U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][3U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][2U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][1U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][0U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][3U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][2U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][1U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][0U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][3U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][2U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][1U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][0U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][3U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][2U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][1U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][0U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][3U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][2U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][1U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [0U][0U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][3U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][2U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][1U];
+    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellinp__encryption__r
+        [1U][0U];
+    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
+        [0U][3U];
+    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
+        [0U][2U];
+    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
+        [0U][1U];
+    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
+        [0U][0U];
+    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[3U] 
+        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
+        [1U][3U];
+    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[2U] 
+        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
+        [1U][2U];
+    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[1U] 
+        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
+        [1U][1U];
+    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[0U] 
+        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
+        [1U][0U];
+}
+
+VL_INLINE_OPT void VTop___024root___sequent__TOP__1(VTop___024root* vlSelf) {
+    if (false && vlSelf) {}  // Prevent unused
+    VTop__Syms* const __restrict vlSymsp VL_ATTR_UNUSED = vlSelf->vlSymsp;
+    VL_DEBUG_IF(VL_DBG_MSGF("+    VTop___024root___sequent__TOP__1\n"); );
+    // Init
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v3;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v5;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v6;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v7;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v8;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v9;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v10;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v11;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v12;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v13;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v14;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v15;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v16;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v17;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v18;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v19;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v20;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v21;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v22;
+    IData/*31:0*/ __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v23;
+    CData/*0:0*/ __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v24;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v4;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v1;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v2;
+    IData/*31:0*/ __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v3;
+    CData/*0:0*/ __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v4;
+    // Body
+    __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v4 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0 = 0U;
+    __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v4 = 0U;
+    if ((1U & (~ (IData)(vlSelf->rst_n)))) {
+        vlSelf->Top__DOT__keygen__DOT__unnamedblk6__DOT__unnamedblk7__DOT__unnamedblk8__DOT__k = 4U;
+        vlSelf->Top__DOT__keygen__DOT__unnamedblk6__DOT__unnamedblk7__DOT__j = 4U;
+        vlSelf->Top__DOT__keygen__DOT__unnamedblk6__DOT__i = 2U;
+    }
+    __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v0 = 0U;
+    __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v24 = 0U;
+    if (vlSelf->rst_n) {
+        if (vlSelf->enable) {
+            vlSelf->Top__DOT__keygen__DOT__unnamedblk9__DOT__unnamedblk10__DOT__j = 4U;
+            vlSelf->Top__DOT__keygen__DOT__unnamedblk11__DOT__unnamedblk12__DOT__j = 4U;
+            vlSelf->Top__DOT__keygen__DOT__unnamedblk9__DOT__i = 4U;
+            vlSelf->Top__DOT__keygen__DOT__unnamedblk11__DOT__i = 2U;
+            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0 
+                = vlSelf->Top__DOT__decryption__DOT__poly_mult2__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v1 
+                = vlSelf->Top__DOT__decryption__DOT__poly_mult2__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v2 
+                = vlSelf->Top__DOT__decryption__DOT__poly_mult2__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v3 
+                = vlSelf->Top__DOT__decryption__DOT__poly_mult2__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0 
+                = vlSelf->Top__DOT__decryption__DOT__poly_mult1__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v1 
+                = vlSelf->Top__DOT__decryption__DOT__poly_mult1__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v2 
+                = vlSelf->Top__DOT__decryption__DOT__poly_mult1__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v3 
+                = vlSelf->Top__DOT__decryption__DOT__poly_mult1__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v1 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v2 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v3 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v1 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v2 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v3 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v1 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v2 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v3 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v1 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v2 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v3 
+                = vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v1 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v2 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v3 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v1 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v2 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v3 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v1 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v2 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v3 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v1 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v2 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v3 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v1 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v2 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v3 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result
+                [0U];
+            __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0 = 1U;
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v1 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result
+                [1U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v2 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result
+                [2U];
+            __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v3 
+                = vlSelf->Top__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result
+                [3U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v0 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [0U][0U];
+            __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v0 = 1U;
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v1 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [0U][1U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v2 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [0U][2U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v3 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [0U][3U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v4 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [1U][0U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v5 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [1U][1U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v6 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [1U][2U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v7 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [1U][3U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v8 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [2U][0U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v9 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [2U][1U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v10 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [2U][2U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v11 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [2U][3U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v12 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [3U][0U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v13 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [3U][1U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v14 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [3U][2U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v15 
+                = vlSelf->Top__DOT____Vcellinp__keygen__A
+                [3U][3U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v16 
+                = vlSelf->Top__DOT____Vcellout__keygen__result
+                [0U][0U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v17 
+                = vlSelf->Top__DOT____Vcellout__keygen__result
+                [0U][1U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v18 
+                = vlSelf->Top__DOT____Vcellout__keygen__result
+                [0U][2U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v19 
+                = vlSelf->Top__DOT____Vcellout__keygen__result
+                [0U][3U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v20 
+                = vlSelf->Top__DOT____Vcellout__keygen__result
+                [1U][0U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v21 
+                = vlSelf->Top__DOT____Vcellout__keygen__result
+                [1U][1U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v22 
+                = vlSelf->Top__DOT____Vcellout__keygen__result
+                [1U][2U];
+            __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v23 
+                = vlSelf->Top__DOT____Vcellout__keygen__result
+                [1U][3U];
+        }
+    } else {
+        __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v4 = 1U;
+        __Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v24 = 1U;
+    }
+    if (__Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0) {
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v0;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v1;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v2;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out__v4) {
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0) {
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v0;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v1;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v2;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out__v4) {
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0) {
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v0;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v1;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v2;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out__v4) {
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0) {
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v0;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v1;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v2;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out__v4) {
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0) {
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v0;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v1;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v2;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out__v4) {
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0) {
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v0;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v1;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v2;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out__v4) {
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v0;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v1;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v2;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out__v4) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v0;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v1;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v2;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out__v4) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v0;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v1;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v2;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out__v4) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v0;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v1;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v2;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out__v4) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v0;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v1;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v2;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out__v4) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[3U] = 0U;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[0U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v0;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[1U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v1;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[2U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v2;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[3U] 
+            = __Vdlyvval__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v3;
+    }
+    if (__Vdlyvset__Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out__v4) {
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[0U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[1U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[2U] = 0U;
+        vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[3U] = 0U;
+    }
     if (__Vdlyvset__Top__DOT____Vcellout__keygen__combined_output__v0) {
         vlSelf->Top__DOT____Vcellout__keygen__combined_output[0U][0U][0U] 
             = __Vdlyvval__Top__DOT____Vcellout__keygen__combined_output__v0;
@@ -2175,82 +2445,6 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
     vlSelf->Top__DOT__keygen__DOT__poly_out0[0U] = 
         vlSelf->Top__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out
         [0U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][3U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][2U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][1U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][0U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][3U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][2U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][1U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][0U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][3U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][2U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][1U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][0U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][3U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][2U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][1U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][0U];
-    vlSelf->Top__DOT__secretkey[1U][3U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][3U];
-    vlSelf->Top__DOT__secretkey[1U][2U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][2U];
-    vlSelf->Top__DOT__secretkey[1U][1U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][1U];
-    vlSelf->Top__DOT__secretkey[1U][0U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [1U][0U];
-    vlSelf->Top__DOT__secretkey[0U][3U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][3U];
-    vlSelf->Top__DOT__secretkey[0U][2U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][2U];
-    vlSelf->Top__DOT__secretkey[0U][1U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][1U];
-    vlSelf->Top__DOT__secretkey[0U][0U] = vlSelf->Top__DOT____Vcellout__keygen__secretkey
-        [0U][0U];
-    vlSelf->Top__DOT__encryption__DOT__coefficients_scaled[0U] 
-        = ((1U & (IData)(vlSelf->Top__DOT__encryption__DOT__coefficients))
-            ? 9U : 0U);
-    vlSelf->Top__DOT__encryption__DOT__coefficients_scaled[1U] 
-        = ((2U & (IData)(vlSelf->Top__DOT__encryption__DOT__coefficients))
-            ? 9U : 0U);
-    vlSelf->Top__DOT__encryption__DOT__coefficients_scaled[2U] 
-        = ((4U & (IData)(vlSelf->Top__DOT__encryption__DOT__coefficients))
-            ? 9U : 0U);
-    vlSelf->Top__DOT__encryption__DOT__coefficients_scaled[3U] 
-        = ((8U & (IData)(vlSelf->Top__DOT__encryption__DOT__coefficients))
-            ? 9U : 0U);
     vlSelf->Top__DOT__encryption__DOT__poly_out5[3U] 
         = vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out
         [3U];
@@ -2323,110 +2517,6 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
     vlSelf->Top__DOT__encryption__DOT__poly_out0[0U] 
         = vlSelf->Top__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out
         [0U];
-    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[1U][3U] 
-        = vlSelf->Top__DOT__s_reg[1U][3U];
-    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[1U][2U] 
-        = vlSelf->Top__DOT__s_reg[1U][2U];
-    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[1U][1U] 
-        = vlSelf->Top__DOT__s_reg[1U][1U];
-    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[1U][0U] 
-        = vlSelf->Top__DOT__s_reg[1U][0U];
-    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[0U][3U] 
-        = vlSelf->Top__DOT__s_reg[0U][3U];
-    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[0U][2U] 
-        = vlSelf->Top__DOT__s_reg[0U][2U];
-    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[0U][1U] 
-        = vlSelf->Top__DOT__s_reg[0U][1U];
-    vlSelf->Top__DOT____Vcellinp__keygen__secret_key[0U][0U] 
-        = vlSelf->Top__DOT__s_reg[0U][0U];
-    vlSelf->Top__DOT____Vcellinp__keygen__e[1U][3U] 
-        = vlSelf->Top__DOT__e_reg[1U][3U];
-    vlSelf->Top__DOT____Vcellinp__keygen__e[1U][2U] 
-        = vlSelf->Top__DOT__e_reg[1U][2U];
-    vlSelf->Top__DOT____Vcellinp__keygen__e[1U][1U] 
-        = vlSelf->Top__DOT__e_reg[1U][1U];
-    vlSelf->Top__DOT____Vcellinp__keygen__e[1U][0U] 
-        = vlSelf->Top__DOT__e_reg[1U][0U];
-    vlSelf->Top__DOT____Vcellinp__keygen__e[0U][3U] 
-        = vlSelf->Top__DOT__e_reg[0U][3U];
-    vlSelf->Top__DOT____Vcellinp__keygen__e[0U][2U] 
-        = vlSelf->Top__DOT__e_reg[0U][2U];
-    vlSelf->Top__DOT____Vcellinp__keygen__e[0U][1U] 
-        = vlSelf->Top__DOT__e_reg[0U][1U];
-    vlSelf->Top__DOT____Vcellinp__keygen__e[0U][0U] 
-        = vlSelf->Top__DOT__e_reg[0U][0U];
-    vlSelf->Top__DOT____Vcellinp__encryption__r[1U][3U] 
-        = vlSelf->Top__DOT__r[1U][3U];
-    vlSelf->Top__DOT____Vcellinp__encryption__r[1U][2U] 
-        = vlSelf->Top__DOT__r[1U][2U];
-    vlSelf->Top__DOT____Vcellinp__encryption__r[1U][1U] 
-        = vlSelf->Top__DOT__r[1U][1U];
-    vlSelf->Top__DOT____Vcellinp__encryption__r[1U][0U] 
-        = vlSelf->Top__DOT__r[1U][0U];
-    vlSelf->Top__DOT____Vcellinp__encryption__r[0U][3U] 
-        = vlSelf->Top__DOT__r[0U][3U];
-    vlSelf->Top__DOT____Vcellinp__encryption__r[0U][2U] 
-        = vlSelf->Top__DOT__r[0U][2U];
-    vlSelf->Top__DOT____Vcellinp__encryption__r[0U][1U] 
-        = vlSelf->Top__DOT__r[0U][1U];
-    vlSelf->Top__DOT____Vcellinp__encryption__r[0U][0U] 
-        = vlSelf->Top__DOT__r[0U][0U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[3U][3U] 
-        = vlSelf->Top__DOT__A_reg[3U][3U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[3U][2U] 
-        = vlSelf->Top__DOT__A_reg[3U][2U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[3U][1U] 
-        = vlSelf->Top__DOT__A_reg[3U][1U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[3U][0U] 
-        = vlSelf->Top__DOT__A_reg[3U][0U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[2U][3U] 
-        = vlSelf->Top__DOT__A_reg[2U][3U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[2U][2U] 
-        = vlSelf->Top__DOT__A_reg[2U][2U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[2U][1U] 
-        = vlSelf->Top__DOT__A_reg[2U][1U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[2U][0U] 
-        = vlSelf->Top__DOT__A_reg[2U][0U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[1U][3U] 
-        = vlSelf->Top__DOT__A_reg[1U][3U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[1U][2U] 
-        = vlSelf->Top__DOT__A_reg[1U][2U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[1U][1U] 
-        = vlSelf->Top__DOT__A_reg[1U][1U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[1U][0U] 
-        = vlSelf->Top__DOT__A_reg[1U][0U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[0U][3U] 
-        = vlSelf->Top__DOT__A_reg[0U][3U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[0U][2U] 
-        = vlSelf->Top__DOT__A_reg[0U][2U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[0U][1U] 
-        = vlSelf->Top__DOT__A_reg[0U][1U];
-    vlSelf->Top__DOT____Vcellinp__keygen__A[0U][0U] 
-        = vlSelf->Top__DOT__A_reg[0U][0U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e2[3U] 
-        = vlSelf->Top__DOT__e2[3U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e2[2U] 
-        = vlSelf->Top__DOT__e2[2U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e2[1U] 
-        = vlSelf->Top__DOT__e2[1U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e2[0U] 
-        = vlSelf->Top__DOT__e2[0U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e1[1U][3U] 
-        = vlSelf->Top__DOT__e1[1U][3U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e1[1U][2U] 
-        = vlSelf->Top__DOT__e1[1U][2U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e1[1U][1U] 
-        = vlSelf->Top__DOT__e1[1U][1U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e1[1U][0U] 
-        = vlSelf->Top__DOT__e1[1U][0U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e1[0U][3U] 
-        = vlSelf->Top__DOT__e1[0U][3U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e1[0U][2U] 
-        = vlSelf->Top__DOT__e1[0U][2U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e1[0U][1U] 
-        = vlSelf->Top__DOT__e1[0U][1U];
-    vlSelf->Top__DOT____Vcellinp__encryption__e1[0U][0U] 
-        = vlSelf->Top__DOT__e1[0U][0U];
     vlSelf->Top__DOT__public_key[1U][3U][3U] = vlSelf->Top__DOT____Vcellout__keygen__combined_output
         [1U][3U][3U];
     vlSelf->Top__DOT__public_key[1U][3U][2U] = vlSelf->Top__DOT____Vcellout__keygen__combined_output
@@ -2491,142 +2581,6 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
         [0U][0U][1U];
     vlSelf->Top__DOT__public_key[0U][0U][0U] = vlSelf->Top__DOT____Vcellout__keygen__combined_output
         [0U][0U][0U];
-    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[1U][3U] 
-        = vlSelf->Top__DOT__secretkey[1U][3U];
-    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[1U][2U] 
-        = vlSelf->Top__DOT__secretkey[1U][2U];
-    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[1U][1U] 
-        = vlSelf->Top__DOT__secretkey[1U][1U];
-    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[1U][0U] 
-        = vlSelf->Top__DOT__secretkey[1U][0U];
-    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[0U][3U] 
-        = vlSelf->Top__DOT__secretkey[0U][3U];
-    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[0U][2U] 
-        = vlSelf->Top__DOT__secretkey[0U][2U];
-    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[0U][1U] 
-        = vlSelf->Top__DOT__secretkey[0U][1U];
-    vlSelf->Top__DOT____Vcellinp__decryption__secret_key[0U][0U] 
-        = vlSelf->Top__DOT__secretkey[0U][0U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][3U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][2U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][1U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][0U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][3U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][2U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][1U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][0U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][3U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][2U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][1U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][0U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][3U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][2U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][1U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][0U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][3U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][2U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][1U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [0U][0U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][3U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][2U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][1U];
-    vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellinp__encryption__r
-        [1U][0U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[3U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[0U]
-        [3U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[2U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[0U]
-        [2U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[1U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[0U]
-        [1U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[0U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[0U]
-        [0U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[3U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[1U]
-        [3U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[2U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[1U]
-        [2U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[1U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[1U]
-        [1U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[0U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[1U]
-        [0U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[3U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[2U]
-        [3U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[2U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[2U]
-        [2U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[1U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[2U]
-        [1U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[0U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[2U]
-        [0U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[3U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[3U]
-        [3U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[2U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[3U]
-        [2U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[1U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[3U]
-        [1U];
-    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[0U] 
-        = vlSelf->Top__DOT____Vcellinp__keygen__A[3U]
-        [0U];
     vlSelf->Top__DOT____Vcellinp__encryption__combined_output[1U][3U][3U] 
         = vlSelf->Top__DOT__public_key[1U][3U][3U];
     vlSelf->Top__DOT____Vcellinp__encryption__combined_output[1U][3U][2U] 
@@ -2691,510 +2645,6 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
         = vlSelf->Top__DOT__public_key[0U][0U][1U];
     vlSelf->Top__DOT____Vcellinp__encryption__combined_output[0U][0U][0U] 
         = vlSelf->Top__DOT__public_key[0U][0U][0U];
-    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
-        [0U][3U];
-    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
-        [0U][2U];
-    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
-        [0U][1U];
-    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
-        [0U][0U];
-    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[3U] 
-        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
-        [1U][3U];
-    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[2U] 
-        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
-        [1U][2U];
-    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[1U] 
-        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
-        [1U][1U];
-    vlSelf->Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[0U] 
-        = vlSelf->Top__DOT____Vcellinp__decryption__secret_key
-        [1U][0U];
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [0U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-           [2U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                      [0U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                                                                 [0U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                             [0U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                      [1U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                                                                 [1U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                             [1U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                      [2U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                                                                 [2U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                             [2U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                      [3U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                                                                 [3U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
-                             [3U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [0U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-           [2U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                      [0U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                                                                 [0U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                             [0U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                      [1U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                                                                 [1U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                             [1U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                      [2U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                                                                 [2U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                             [2U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                      [3U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                                                                 [3U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
-                             [3U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [0U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-           [2U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                      [0U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                                                                 [0U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                             [0U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                      [1U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                                                                 [1U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                             [1U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                      [2U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                                                                 [2U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                             [2U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                      [3U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                                                                 [3U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
-                             [3U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] = 0U;
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [0U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [0U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [1U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [2U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] 
-        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-           [2U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
-                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
-                              [3U]));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                      [0U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                                                                 [0U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                             [0U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                      [1U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                                                                 [1U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                             [1U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                      [2U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                                                                 [2U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                             [2U], (IData)(0x11U)));
-    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] 
-        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                      [3U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
-                                                  + 
-                                                  VL_MODDIVS_III(32, 
-                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                                                                 [3U], (IData)(0x11U))), (IData)(0x11U))
-            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
-                             [3U], (IData)(0x11U)));
     vlSelf->Top__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial1[3U] 
         = vlSelf->Top__DOT____Vcellinp__encryption__combined_output
         [1U][0U][3U];
@@ -4133,15 +3583,578 @@ VL_INLINE_OPT void VTop___024root___sequent__TOP__0(VTop___024root* vlSelf) {
                              [3U], (IData)(0x11U)));
 }
 
+VL_INLINE_OPT void VTop___024root___sequent__TOP__2(VTop___024root* vlSelf) {
+    if (false && vlSelf) {}  // Prevent unused
+    VTop__Syms* const __restrict vlSymsp VL_ATTR_UNUSED = vlSelf->vlSymsp;
+    VL_DEBUG_IF(VL_DBG_MSGF("+    VTop___024root___sequent__TOP__2\n"); );
+    // Body
+    vlSelf->Top__DOT____Vcellinp__keygen__A[3U][3U] 
+        = vlSelf->Top__DOT__A_reg[3U][3U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[3U][2U] 
+        = vlSelf->Top__DOT__A_reg[3U][2U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[3U][1U] 
+        = vlSelf->Top__DOT__A_reg[3U][1U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[3U][0U] 
+        = vlSelf->Top__DOT__A_reg[3U][0U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[2U][3U] 
+        = vlSelf->Top__DOT__A_reg[2U][3U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[2U][2U] 
+        = vlSelf->Top__DOT__A_reg[2U][2U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[2U][1U] 
+        = vlSelf->Top__DOT__A_reg[2U][1U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[2U][0U] 
+        = vlSelf->Top__DOT__A_reg[2U][0U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[1U][3U] 
+        = vlSelf->Top__DOT__A_reg[1U][3U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[1U][2U] 
+        = vlSelf->Top__DOT__A_reg[1U][2U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[1U][1U] 
+        = vlSelf->Top__DOT__A_reg[1U][1U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[1U][0U] 
+        = vlSelf->Top__DOT__A_reg[1U][0U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[0U][3U] 
+        = vlSelf->Top__DOT__A_reg[0U][3U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[0U][2U] 
+        = vlSelf->Top__DOT__A_reg[0U][2U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[0U][1U] 
+        = vlSelf->Top__DOT__A_reg[0U][1U];
+    vlSelf->Top__DOT____Vcellinp__keygen__A[0U][0U] 
+        = vlSelf->Top__DOT__A_reg[0U][0U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[3U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[0U]
+        [3U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[2U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[0U]
+        [2U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[1U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[0U]
+        [1U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[0U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[0U]
+        [0U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[3U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[1U]
+        [3U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[2U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[1U]
+        [2U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[1U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[1U]
+        [1U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[0U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[1U]
+        [0U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[3U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[2U]
+        [3U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[2U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[2U]
+        [2U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[1U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[2U]
+        [1U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[0U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[2U]
+        [0U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[3U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[3U]
+        [3U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[2U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[3U]
+        [2U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[1U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[3U]
+        [1U];
+    vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[0U] 
+        = vlSelf->Top__DOT____Vcellinp__keygen__A[3U]
+        [0U];
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [0U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+           [2U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                      [0U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                                                                 [0U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                             [0U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                      [1U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                                                                 [1U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                             [1U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                      [2U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                                                                 [2U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                             [2U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                      [3U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                                                                 [3U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult0__DOT__temp_result
+                             [3U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [0U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+           [2U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                      [0U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                                                                 [0U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                             [0U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                      [1U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                                                                 [1U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                             [1U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                      [2U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                                                                 [2U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                             [2U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                      [3U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                                                                 [3U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult1__DOT__temp_result
+                             [3U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [0U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+           [2U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                      [0U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                                                                 [0U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                             [0U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                      [1U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                                                                 [1U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                             [1U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                      [2U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                                                                 [2U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                             [2U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                      [3U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                                                                 [3U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult2__DOT__temp_result
+                             [3U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] = 0U;
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [0U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [0U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [1U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [2U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [3U] + VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [0U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [1U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [2U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [0U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [1U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [1U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [2U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] 
+        = (vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+           [2U] - VL_MULS_III(32, vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1
+                              [3U], vlSelf->Top__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2
+                              [3U]));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                      [0U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                                                                 [0U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                             [0U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                      [1U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                                                                 [1U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                             [1U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                      [2U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                                                                 [2U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                             [2U], (IData)(0x11U)));
+    vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3U] 
+        = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                      [3U]) ? VL_MODDIVS_III(32, ((IData)(0x11U) 
+                                                  + 
+                                                  VL_MODDIVS_III(32, 
+                                                                 vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                                                                 [3U], (IData)(0x11U))), (IData)(0x11U))
+            : VL_MODDIVS_III(32, vlSelf->Top__DOT__keygen__DOT__poly_mult3__DOT__temp_result
+                             [3U], (IData)(0x11U)));
+}
+
 VL_INLINE_OPT void VTop___024root___combo__TOP__1(VTop___024root* vlSelf) {
     if (false && vlSelf) {}  // Prevent unused
     VTop__Syms* const __restrict vlSymsp VL_ATTR_UNUSED = vlSelf->vlSymsp;
     VL_DEBUG_IF(VL_DBG_MSGF("+    VTop___024root___combo__TOP__1\n"); );
     // Body
-    vlSelf->Top__DOT__encryption__DOT__added2[0U] = 0U;
-    vlSelf->Top__DOT__encryption__DOT__added2[1U] = 0U;
-    vlSelf->Top__DOT__encryption__DOT__added2[2U] = 0U;
-    vlSelf->Top__DOT__encryption__DOT__added2[3U] = 0U;
     vlSelf->Top__DOT__keygen__DOT__added[0U] = 0U;
     vlSelf->Top__DOT__keygen__DOT__added1[0U] = 0U;
     vlSelf->Top__DOT____Vcellout__keygen__result[0U][0U] = 0U;
@@ -4158,6 +4171,10 @@ VL_INLINE_OPT void VTop___024root___combo__TOP__1(VTop___024root* vlSelf) {
     vlSelf->Top__DOT__keygen__DOT__added1[3U] = 0U;
     vlSelf->Top__DOT____Vcellout__keygen__result[0U][3U] = 0U;
     vlSelf->Top__DOT____Vcellout__keygen__result[1U][3U] = 0U;
+    vlSelf->Top__DOT__encryption__DOT__added2[0U] = 0U;
+    vlSelf->Top__DOT__encryption__DOT__added2[1U] = 0U;
+    vlSelf->Top__DOT__encryption__DOT__added2[2U] = 0U;
+    vlSelf->Top__DOT__encryption__DOT__added2[3U] = 0U;
     vlSelf->Top__DOT__encryption__DOT__added[0U] = 0U;
     vlSelf->Top__DOT__encryption__DOT__added1[0U] = 0U;
     vlSelf->Top__DOT__encryption__DOT__u[0U][0U] = 0U;
@@ -4175,42 +4192,6 @@ VL_INLINE_OPT void VTop___024root___combo__TOP__1(VTop___024root* vlSelf) {
     vlSelf->Top__DOT__encryption__DOT__u[0U][3U] = 0U;
     vlSelf->Top__DOT__encryption__DOT__u[1U][3U] = 0U;
     if (vlSelf->enable) {
-        vlSelf->Top__DOT__encryption__DOT__added2[0U] 
-            = (vlSelf->Top__DOT__encryption__DOT__poly_out4
-               [0U] + vlSelf->Top__DOT__encryption__DOT__poly_out5
-               [0U]);
-        vlSelf->Top__DOT__encryption__DOT__added2[0U] 
-            = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__encryption__DOT__added2
-                          [0U]) ? vlSelf->Top__DOT__encryption__DOT__added2
-               [0U] : VL_MODDIVS_III(32, vlSelf->Top__DOT__encryption__DOT__added2
-                                     [0U], (IData)(0x11U)));
-        vlSelf->Top__DOT__encryption__DOT__added2[1U] 
-            = (vlSelf->Top__DOT__encryption__DOT__poly_out4
-               [1U] + vlSelf->Top__DOT__encryption__DOT__poly_out5
-               [1U]);
-        vlSelf->Top__DOT__encryption__DOT__added2[1U] 
-            = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__encryption__DOT__added2
-                          [1U]) ? vlSelf->Top__DOT__encryption__DOT__added2
-               [1U] : VL_MODDIVS_III(32, vlSelf->Top__DOT__encryption__DOT__added2
-                                     [1U], (IData)(0x11U)));
-        vlSelf->Top__DOT__encryption__DOT__added2[2U] 
-            = (vlSelf->Top__DOT__encryption__DOT__poly_out4
-               [2U] + vlSelf->Top__DOT__encryption__DOT__poly_out5
-               [2U]);
-        vlSelf->Top__DOT__encryption__DOT__added2[2U] 
-            = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__encryption__DOT__added2
-                          [2U]) ? vlSelf->Top__DOT__encryption__DOT__added2
-               [2U] : VL_MODDIVS_III(32, vlSelf->Top__DOT__encryption__DOT__added2
-                                     [2U], (IData)(0x11U)));
-        vlSelf->Top__DOT__encryption__DOT__added2[3U] 
-            = (vlSelf->Top__DOT__encryption__DOT__poly_out4
-               [3U] + vlSelf->Top__DOT__encryption__DOT__poly_out5
-               [3U]);
-        vlSelf->Top__DOT__encryption__DOT__added2[3U] 
-            = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__encryption__DOT__added2
-                          [3U]) ? vlSelf->Top__DOT__encryption__DOT__added2
-               [3U] : VL_MODDIVS_III(32, vlSelf->Top__DOT__encryption__DOT__added2
-                                     [3U], (IData)(0x11U)));
         vlSelf->Top__DOT__keygen__DOT__added[0U] = 
             (vlSelf->Top__DOT__keygen__DOT__poly_out0
              [0U] + vlSelf->Top__DOT__keygen__DOT__poly_out1
@@ -4355,6 +4336,42 @@ VL_INLINE_OPT void VTop___024root___combo__TOP__1(VTop___024root* vlSelf) {
                           [1U][3U]) ? vlSelf->Top__DOT____Vcellout__keygen__result
                [1U][3U] : VL_MODDIVS_III(32, vlSelf->Top__DOT____Vcellout__keygen__result
                                          [1U][3U], (IData)(0x11U)));
+        vlSelf->Top__DOT__encryption__DOT__added2[0U] 
+            = (vlSelf->Top__DOT__encryption__DOT__poly_out4
+               [0U] + vlSelf->Top__DOT__encryption__DOT__poly_out5
+               [0U]);
+        vlSelf->Top__DOT__encryption__DOT__added2[0U] 
+            = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__encryption__DOT__added2
+                          [0U]) ? vlSelf->Top__DOT__encryption__DOT__added2
+               [0U] : VL_MODDIVS_III(32, vlSelf->Top__DOT__encryption__DOT__added2
+                                     [0U], (IData)(0x11U)));
+        vlSelf->Top__DOT__encryption__DOT__added2[1U] 
+            = (vlSelf->Top__DOT__encryption__DOT__poly_out4
+               [1U] + vlSelf->Top__DOT__encryption__DOT__poly_out5
+               [1U]);
+        vlSelf->Top__DOT__encryption__DOT__added2[1U] 
+            = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__encryption__DOT__added2
+                          [1U]) ? vlSelf->Top__DOT__encryption__DOT__added2
+               [1U] : VL_MODDIVS_III(32, vlSelf->Top__DOT__encryption__DOT__added2
+                                     [1U], (IData)(0x11U)));
+        vlSelf->Top__DOT__encryption__DOT__added2[2U] 
+            = (vlSelf->Top__DOT__encryption__DOT__poly_out4
+               [2U] + vlSelf->Top__DOT__encryption__DOT__poly_out5
+               [2U]);
+        vlSelf->Top__DOT__encryption__DOT__added2[2U] 
+            = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__encryption__DOT__added2
+                          [2U]) ? vlSelf->Top__DOT__encryption__DOT__added2
+               [2U] : VL_MODDIVS_III(32, vlSelf->Top__DOT__encryption__DOT__added2
+                                     [2U], (IData)(0x11U)));
+        vlSelf->Top__DOT__encryption__DOT__added2[3U] 
+            = (vlSelf->Top__DOT__encryption__DOT__poly_out4
+               [3U] + vlSelf->Top__DOT__encryption__DOT__poly_out5
+               [3U]);
+        vlSelf->Top__DOT__encryption__DOT__added2[3U] 
+            = (VL_GTS_III(32, 0U, vlSelf->Top__DOT__encryption__DOT__added2
+                          [3U]) ? vlSelf->Top__DOT__encryption__DOT__added2
+               [3U] : VL_MODDIVS_III(32, vlSelf->Top__DOT__encryption__DOT__added2
+                                     [3U], (IData)(0x11U)));
         vlSelf->Top__DOT__encryption__DOT__added[0U] 
             = (vlSelf->Top__DOT__encryption__DOT__poly_out0
                [0U] + vlSelf->Top__DOT__encryption__DOT__poly_out1
@@ -5093,10 +5110,18 @@ void VTop___024root___eval(VTop___024root* vlSelf) {
     // Body
     VTop___024root___combo__TOP__0(vlSelf);
     vlSelf->__Vm_traceActivity[1U] = 1U;
-    if ((((IData)(vlSelf->clk) & (~ (IData)(vlSelf->__Vclklast__TOP__clk))) 
-         | ((~ (IData)(vlSelf->rst_n)) & (IData)(vlSelf->__Vclklast__TOP__rst_n)))) {
+    if (((IData)(vlSelf->clk) & (~ (IData)(vlSelf->__Vclklast__TOP__clk)))) {
         VTop___024root___sequent__TOP__0(vlSelf);
         vlSelf->__Vm_traceActivity[2U] = 1U;
+    }
+    if ((((IData)(vlSelf->clk) & (~ (IData)(vlSelf->__Vclklast__TOP__clk))) 
+         | ((~ (IData)(vlSelf->rst_n)) & (IData)(vlSelf->__Vclklast__TOP__rst_n)))) {
+        VTop___024root___sequent__TOP__1(vlSelf);
+        vlSelf->__Vm_traceActivity[3U] = 1U;
+    }
+    if (((IData)(vlSelf->clk) & (~ (IData)(vlSelf->__Vclklast__TOP__clk)))) {
+        VTop___024root___sequent__TOP__2(vlSelf);
+        vlSelf->__Vm_traceActivity[4U] = 1U;
     }
     VTop___024root___combo__TOP__1(vlSelf);
     // Final

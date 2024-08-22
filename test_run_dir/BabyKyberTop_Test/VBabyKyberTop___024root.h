@@ -28,8 +28,8 @@ class VBabyKyberTop___024root final : public VerilatedModule {
         CData/*3:0*/ BabyKyberTop__DOT__bkyber__DOT__m_b;
         CData/*3:0*/ BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients;
         CData/*0:0*/ __VinpClk__TOP__BabyKyberTop__DOT__bkyber_rst_n;
-        CData/*0:0*/ __Vclklast__TOP____VinpClk__TOP__BabyKyberTop__DOT__bkyber_rst_n;
         CData/*0:0*/ __Vclklast__TOP__clock;
+        CData/*0:0*/ __Vclklast__TOP____VinpClk__TOP__BabyKyberTop__DOT__bkyber_rst_n;
         CData/*0:0*/ __Vchglast__TOP__BabyKyberTop__DOT__bkyber_rst_n;
         VL_IN(io_req_bits_addrRequest,31,0);
         VL_IN(io_req_bits_dataRequest,31,0);
@@ -243,7 +243,7 @@ class VBabyKyberTop___024root final : public VerilatedModule {
         VlUnpacked<IData/*31:0*/, 4> BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1;
         VlUnpacked<IData/*31:0*/, 4> BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult1__DOT__temp_result;
         VlUnpacked<IData/*31:0*/, 4> BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult2__DOT__temp_result;
-        VlUnpacked<CData/*0:0*/, 2> __Vm_traceActivity;
+        VlUnpacked<CData/*0:0*/, 4> __Vm_traceActivity;
     };
 
     // INTERNAL VARIABLES

@@ -239,7 +239,7 @@ class VTop___024root final : public VerilatedModule {
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT__poly_mult1__DOT__temp_result;
         VlUnpacked<IData/*31:0*/, 4> Top__DOT__decryption__DOT__poly_mult2__DOT__temp_result;
-        VlUnpacked<CData/*0:0*/, 3> __Vm_traceActivity;
+        VlUnpacked<CData/*0:0*/, 5> __Vm_traceActivity;
     };
 
     // INTERNAL VARIABLES

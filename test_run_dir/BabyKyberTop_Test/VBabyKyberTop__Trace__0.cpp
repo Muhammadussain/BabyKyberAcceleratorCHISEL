@@ -41,1050 +41,1057 @@ void VBabyKyberTop___024root__trace_chg_sub_0(VBabyKyberTop___024root* vlSelf, V
                                [1U][2U]),32);
         bufp->chgIData(oldp+8,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__secretkey
                                [1U][3U]),32);
-        bufp->chgIData(oldp+9,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+        bufp->chgIData(oldp+9,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                [0U][0U]),32);
-        bufp->chgIData(oldp+10,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+        bufp->chgIData(oldp+10,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [0U][1U]),32);
-        bufp->chgIData(oldp+11,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+        bufp->chgIData(oldp+11,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [0U][2U]),32);
-        bufp->chgIData(oldp+12,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+        bufp->chgIData(oldp+12,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [0U][3U]),32);
-        bufp->chgIData(oldp+13,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+        bufp->chgIData(oldp+13,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [1U][0U]),32);
-        bufp->chgIData(oldp+14,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+        bufp->chgIData(oldp+14,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [1U][1U]),32);
-        bufp->chgIData(oldp+15,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+        bufp->chgIData(oldp+15,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [1U][2U]),32);
-        bufp->chgIData(oldp+16,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+        bufp->chgIData(oldp+16,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [1U][3U]),32);
-        bufp->chgIData(oldp+17,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][0U][0U]),32);
-        bufp->chgIData(oldp+18,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][0U][1U]),32);
-        bufp->chgIData(oldp+19,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][0U][2U]),32);
-        bufp->chgIData(oldp+20,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][0U][3U]),32);
-        bufp->chgIData(oldp+21,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][1U][0U]),32);
-        bufp->chgIData(oldp+22,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][1U][1U]),32);
-        bufp->chgIData(oldp+23,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][1U][2U]),32);
-        bufp->chgIData(oldp+24,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][1U][3U]),32);
-        bufp->chgIData(oldp+25,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][2U][0U]),32);
-        bufp->chgIData(oldp+26,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][2U][1U]),32);
-        bufp->chgIData(oldp+27,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][2U][2U]),32);
-        bufp->chgIData(oldp+28,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][2U][3U]),32);
-        bufp->chgIData(oldp+29,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][3U][0U]),32);
-        bufp->chgIData(oldp+30,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][3U][1U]),32);
-        bufp->chgIData(oldp+31,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][3U][2U]),32);
-        bufp->chgIData(oldp+32,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [0U][3U][3U]),32);
-        bufp->chgIData(oldp+33,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][0U][0U]),32);
-        bufp->chgIData(oldp+34,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][0U][1U]),32);
-        bufp->chgIData(oldp+35,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][0U][2U]),32);
-        bufp->chgIData(oldp+36,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][0U][3U]),32);
-        bufp->chgIData(oldp+37,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][1U][0U]),32);
-        bufp->chgIData(oldp+38,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][1U][1U]),32);
-        bufp->chgIData(oldp+39,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][1U][2U]),32);
-        bufp->chgIData(oldp+40,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][1U][3U]),32);
-        bufp->chgIData(oldp+41,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][2U][0U]),32);
-        bufp->chgIData(oldp+42,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][2U][1U]),32);
-        bufp->chgIData(oldp+43,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][2U][2U]),32);
-        bufp->chgIData(oldp+44,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][2U][3U]),32);
-        bufp->chgIData(oldp+45,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][3U][0U]),32);
-        bufp->chgIData(oldp+46,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][3U][1U]),32);
-        bufp->chgIData(oldp+47,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][3U][2U]),32);
-        bufp->chgIData(oldp+48,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
-                                [1U][3U][3U]),32);
-        bufp->chgIData(oldp+49,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
-                                [0U][0U]),32);
-        bufp->chgIData(oldp+50,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
-                                [0U][1U]),32);
-        bufp->chgIData(oldp+51,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
-                                [0U][2U]),32);
-        bufp->chgIData(oldp+52,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
-                                [0U][3U]),32);
-        bufp->chgIData(oldp+53,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
-                                [1U][0U]),32);
-        bufp->chgIData(oldp+54,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
-                                [1U][1U]),32);
-        bufp->chgIData(oldp+55,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
-                                [1U][2U]),32);
-        bufp->chgIData(oldp+56,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
-                                [1U][3U]),32);
-        bufp->chgIData(oldp+57,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
+        bufp->chgIData(oldp+17,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [2U][0U]),32);
-        bufp->chgIData(oldp+58,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
+        bufp->chgIData(oldp+18,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [2U][1U]),32);
-        bufp->chgIData(oldp+59,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
+        bufp->chgIData(oldp+19,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [2U][2U]),32);
-        bufp->chgIData(oldp+60,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
+        bufp->chgIData(oldp+20,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [2U][3U]),32);
-        bufp->chgIData(oldp+61,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
+        bufp->chgIData(oldp+21,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [3U][0U]),32);
-        bufp->chgIData(oldp+62,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
+        bufp->chgIData(oldp+22,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [3U][1U]),32);
-        bufp->chgIData(oldp+63,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
+        bufp->chgIData(oldp+23,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [3U][2U]),32);
-        bufp->chgIData(oldp+64,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
+        bufp->chgIData(oldp+24,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_reg
                                 [3U][3U]),32);
-        bufp->chgIData(oldp+65,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
+        bufp->chgIData(oldp+25,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
                                 [0U][0U]),32);
-        bufp->chgIData(oldp+66,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
+        bufp->chgIData(oldp+26,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
                                 [0U][1U]),32);
-        bufp->chgIData(oldp+67,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
+        bufp->chgIData(oldp+27,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
                                 [0U][2U]),32);
-        bufp->chgIData(oldp+68,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
+        bufp->chgIData(oldp+28,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
                                 [0U][3U]),32);
-        bufp->chgIData(oldp+69,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
+        bufp->chgIData(oldp+29,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
                                 [1U][0U]),32);
-        bufp->chgIData(oldp+70,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
+        bufp->chgIData(oldp+30,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
                                 [1U][1U]),32);
-        bufp->chgIData(oldp+71,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
+        bufp->chgIData(oldp+31,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
                                 [1U][2U]),32);
-        bufp->chgIData(oldp+72,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
+        bufp->chgIData(oldp+32,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_reg
                                 [1U][3U]),32);
-        bufp->chgIData(oldp+73,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
+        bufp->chgIData(oldp+33,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
                                 [0U][0U]),32);
-        bufp->chgIData(oldp+74,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
+        bufp->chgIData(oldp+34,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
                                 [0U][1U]),32);
-        bufp->chgIData(oldp+75,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
+        bufp->chgIData(oldp+35,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
                                 [0U][2U]),32);
-        bufp->chgIData(oldp+76,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
+        bufp->chgIData(oldp+36,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
                                 [0U][3U]),32);
-        bufp->chgIData(oldp+77,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
+        bufp->chgIData(oldp+37,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
                                 [1U][0U]),32);
-        bufp->chgIData(oldp+78,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
+        bufp->chgIData(oldp+38,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
                                 [1U][1U]),32);
-        bufp->chgIData(oldp+79,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
+        bufp->chgIData(oldp+39,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
                                 [1U][2U]),32);
-        bufp->chgIData(oldp+80,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
+        bufp->chgIData(oldp+40,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_reg
                                 [1U][3U]),32);
-        bufp->chgIData(oldp+81,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [0U][0U][0U]),32);
-        bufp->chgIData(oldp+82,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [0U][0U][1U]),32);
-        bufp->chgIData(oldp+83,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [0U][0U][2U]),32);
-        bufp->chgIData(oldp+84,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [0U][0U][3U]),32);
-        bufp->chgIData(oldp+85,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [0U][1U][0U]),32);
-        bufp->chgIData(oldp+86,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [0U][1U][1U]),32);
-        bufp->chgIData(oldp+87,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [0U][1U][2U]),32);
-        bufp->chgIData(oldp+88,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [0U][1U][3U]),32);
-        bufp->chgIData(oldp+89,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [1U][0U][0U]),32);
-        bufp->chgIData(oldp+90,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [1U][0U][1U]),32);
-        bufp->chgIData(oldp+91,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [1U][0U][2U]),32);
-        bufp->chgIData(oldp+92,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [1U][0U][3U]),32);
-        bufp->chgIData(oldp+93,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [1U][1U][0U]),32);
-        bufp->chgIData(oldp+94,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [1U][1U][1U]),32);
-        bufp->chgIData(oldp+95,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [1U][1U][2U]),32);
-        bufp->chgIData(oldp+96,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
-                                [1U][1U][3U]),32);
-        bufp->chgIData(oldp+97,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
+        bufp->chgIData(oldp+41,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
                                 [0U][0U]),32);
-        bufp->chgIData(oldp+98,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
+        bufp->chgIData(oldp+42,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
                                 [0U][1U]),32);
-        bufp->chgIData(oldp+99,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
+        bufp->chgIData(oldp+43,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
                                 [0U][2U]),32);
-        bufp->chgIData(oldp+100,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
-                                 [0U][3U]),32);
-        bufp->chgIData(oldp+101,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
-                                 [1U][0U]),32);
-        bufp->chgIData(oldp+102,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
-                                 [1U][1U]),32);
-        bufp->chgIData(oldp+103,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
-                                 [1U][2U]),32);
-        bufp->chgIData(oldp+104,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
-                                 [1U][3U]),32);
-        bufp->chgIData(oldp+105,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+        bufp->chgIData(oldp+44,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
+                                [0U][3U]),32);
+        bufp->chgIData(oldp+45,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
+                                [1U][0U]),32);
+        bufp->chgIData(oldp+46,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
+                                [1U][1U]),32);
+        bufp->chgIData(oldp+47,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
+                                [1U][2U]),32);
+        bufp->chgIData(oldp+48,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r
+                                [1U][3U]),32);
+        bufp->chgIData(oldp+49,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+                                [0U][0U]),32);
+        bufp->chgIData(oldp+50,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+                                [0U][1U]),32);
+        bufp->chgIData(oldp+51,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+                                [0U][2U]),32);
+        bufp->chgIData(oldp+52,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+                                [0U][3U]),32);
+        bufp->chgIData(oldp+53,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+                                [1U][0U]),32);
+        bufp->chgIData(oldp+54,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+                                [1U][1U]),32);
+        bufp->chgIData(oldp+55,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+                                [1U][2U]),32);
+        bufp->chgIData(oldp+56,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+                                [1U][3U]),32);
+        bufp->chgIData(oldp+57,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2[0]),32);
+        bufp->chgIData(oldp+58,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2[1]),32);
+        bufp->chgIData(oldp+59,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2[2]),32);
+        bufp->chgIData(oldp+60,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2[3]),32);
+        bufp->chgIData(oldp+61,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t000),32);
+        bufp->chgIData(oldp+62,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t001),32);
+        bufp->chgIData(oldp+63,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t002),32);
+        bufp->chgIData(oldp+64,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t003),32);
+        bufp->chgIData(oldp+65,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t010),32);
+        bufp->chgIData(oldp+66,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t011),32);
+        bufp->chgIData(oldp+67,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t012),32);
+        bufp->chgIData(oldp+68,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t013),32);
+        bufp->chgIData(oldp+69,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t020),32);
+        bufp->chgIData(oldp+70,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t021),32);
+        bufp->chgIData(oldp+71,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t022),32);
+        bufp->chgIData(oldp+72,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t023),32);
+        bufp->chgIData(oldp+73,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t030),32);
+        bufp->chgIData(oldp+74,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t031),32);
+        bufp->chgIData(oldp+75,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t032),32);
+        bufp->chgIData(oldp+76,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t033),32);
+        bufp->chgIData(oldp+77,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_00),32);
+        bufp->chgIData(oldp+78,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_01),32);
+        bufp->chgIData(oldp+79,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_02),32);
+        bufp->chgIData(oldp+80,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_03),32);
+        bufp->chgIData(oldp+81,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_10),32);
+        bufp->chgIData(oldp+82,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_11),32);
+        bufp->chgIData(oldp+83,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_12),32);
+        bufp->chgIData(oldp+84,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_13),32);
+        bufp->chgIData(oldp+85,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_00),32);
+        bufp->chgIData(oldp+86,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_01),32);
+        bufp->chgIData(oldp+87,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_02),32);
+        bufp->chgIData(oldp+88,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_03),32);
+        bufp->chgIData(oldp+89,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_10),32);
+        bufp->chgIData(oldp+90,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_11),32);
+        bufp->chgIData(oldp+91,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_12),32);
+        bufp->chgIData(oldp+92,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_13),32);
+        bufp->chgIData(oldp+93,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__message),32);
+        bufp->chgIData(oldp+94,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key000),32);
+        bufp->chgIData(oldp+95,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key001),32);
+        bufp->chgIData(oldp+96,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key002),32);
+        bufp->chgIData(oldp+97,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key003),32);
+        bufp->chgIData(oldp+98,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key010),32);
+        bufp->chgIData(oldp+99,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key011),32);
+        bufp->chgIData(oldp+100,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key012),32);
+        bufp->chgIData(oldp+101,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key013),32);
+        bufp->chgIData(oldp+102,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key020),32);
+        bufp->chgIData(oldp+103,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key021),32);
+        bufp->chgIData(oldp+104,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key022),32);
+        bufp->chgIData(oldp+105,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key023),32);
+        bufp->chgIData(oldp+106,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key030),32);
+        bufp->chgIData(oldp+107,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key031),32);
+        bufp->chgIData(oldp+108,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key032),32);
+        bufp->chgIData(oldp+109,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key033),32);
+        bufp->chgIData(oldp+110,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key100),32);
+        bufp->chgIData(oldp+111,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key101),32);
+        bufp->chgIData(oldp+112,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key102),32);
+        bufp->chgIData(oldp+113,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key103),32);
+        bufp->chgIData(oldp+114,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key110),32);
+        bufp->chgIData(oldp+115,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key111),32);
+        bufp->chgIData(oldp+116,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key112),32);
+        bufp->chgIData(oldp+117,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key113),32);
+        bufp->chgIData(oldp+118,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_00),32);
+        bufp->chgIData(oldp+119,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_01),32);
+        bufp->chgIData(oldp+120,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_02),32);
+        bufp->chgIData(oldp+121,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_03),32);
+        bufp->chgIData(oldp+122,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_10),32);
+        bufp->chgIData(oldp+123,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_11),32);
+        bufp->chgIData(oldp+124,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_12),32);
+        bufp->chgIData(oldp+125,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_13),32);
+        bufp->chgIData(oldp+126,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_00),32);
+        bufp->chgIData(oldp+127,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_01),32);
+        bufp->chgIData(oldp+128,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_02),32);
+        bufp->chgIData(oldp+129,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_03),32);
+        bufp->chgIData(oldp+130,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_10),32);
+        bufp->chgIData(oldp+131,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_11),32);
+        bufp->chgIData(oldp+132,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_12),32);
+        bufp->chgIData(oldp+133,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_13),32);
+        bufp->chgIData(oldp+134,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2_0),32);
+        bufp->chgIData(oldp+135,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2_1),32);
+        bufp->chgIData(oldp+136,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2_2),32);
+        bufp->chgIData(oldp+137,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2_3),32);
+        bufp->chgIData(oldp+138,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext000),32);
+        bufp->chgIData(oldp+139,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext001),32);
+        bufp->chgIData(oldp+140,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext002),32);
+        bufp->chgIData(oldp+141,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext003),32);
+        bufp->chgIData(oldp+142,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext010),32);
+        bufp->chgIData(oldp+143,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext011),32);
+        bufp->chgIData(oldp+144,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext012),32);
+        bufp->chgIData(oldp+145,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext013),32);
+        bufp->chgIData(oldp+146,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext100),32);
+        bufp->chgIData(oldp+147,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext101),32);
+        bufp->chgIData(oldp+148,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext102),32);
+        bufp->chgIData(oldp+149,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext103),32);
+        bufp->chgIData(oldp+150,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
                                  [0U][0U]),32);
-        bufp->chgIData(oldp+106,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+        bufp->chgIData(oldp+151,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
                                  [0U][1U]),32);
-        bufp->chgIData(oldp+107,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+        bufp->chgIData(oldp+152,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
                                  [0U][2U]),32);
-        bufp->chgIData(oldp+108,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+        bufp->chgIData(oldp+153,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
                                  [0U][3U]),32);
-        bufp->chgIData(oldp+109,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+        bufp->chgIData(oldp+154,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
                                  [1U][0U]),32);
-        bufp->chgIData(oldp+110,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+        bufp->chgIData(oldp+155,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
                                  [1U][1U]),32);
-        bufp->chgIData(oldp+111,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+        bufp->chgIData(oldp+156,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
                                  [1U][2U]),32);
-        bufp->chgIData(oldp+112,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1
+        bufp->chgIData(oldp+157,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
                                  [1U][3U]),32);
-        bufp->chgIData(oldp+113,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2[0]),32);
-        bufp->chgIData(oldp+114,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2[1]),32);
-        bufp->chgIData(oldp+115,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2[2]),32);
-        bufp->chgIData(oldp+116,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2[3]),32);
-        bufp->chgIData(oldp+117,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decimal_value),32);
-        bufp->chgCData(oldp+118,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__m_b),4);
-        bufp->chgIData(oldp+119,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t000),32);
-        bufp->chgIData(oldp+120,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t001),32);
-        bufp->chgIData(oldp+121,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t002),32);
-        bufp->chgIData(oldp+122,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t003),32);
-        bufp->chgIData(oldp+123,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t010),32);
-        bufp->chgIData(oldp+124,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t011),32);
-        bufp->chgIData(oldp+125,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t012),32);
-        bufp->chgIData(oldp+126,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t013),32);
-        bufp->chgIData(oldp+127,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t020),32);
-        bufp->chgIData(oldp+128,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t021),32);
-        bufp->chgIData(oldp+129,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t022),32);
-        bufp->chgIData(oldp+130,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t023),32);
-        bufp->chgIData(oldp+131,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t030),32);
-        bufp->chgIData(oldp+132,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t031),32);
-        bufp->chgIData(oldp+133,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t032),32);
-        bufp->chgIData(oldp+134,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__A_t033),32);
-        bufp->chgIData(oldp+135,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_00),32);
-        bufp->chgIData(oldp+136,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_01),32);
-        bufp->chgIData(oldp+137,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_02),32);
-        bufp->chgIData(oldp+138,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_03),32);
-        bufp->chgIData(oldp+139,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_10),32);
-        bufp->chgIData(oldp+140,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_11),32);
-        bufp->chgIData(oldp+141,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_12),32);
-        bufp->chgIData(oldp+142,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__s_13),32);
-        bufp->chgIData(oldp+143,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_00),32);
-        bufp->chgIData(oldp+144,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_01),32);
-        bufp->chgIData(oldp+145,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_02),32);
-        bufp->chgIData(oldp+146,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_03),32);
-        bufp->chgIData(oldp+147,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_10),32);
-        bufp->chgIData(oldp+148,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_11),32);
-        bufp->chgIData(oldp+149,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_12),32);
-        bufp->chgIData(oldp+150,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e_13),32);
-        bufp->chgIData(oldp+151,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__message),32);
-        bufp->chgIData(oldp+152,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key000),32);
-        bufp->chgIData(oldp+153,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key001),32);
-        bufp->chgIData(oldp+154,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key002),32);
-        bufp->chgIData(oldp+155,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key003),32);
-        bufp->chgIData(oldp+156,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key010),32);
-        bufp->chgIData(oldp+157,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key011),32);
-        bufp->chgIData(oldp+158,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key012),32);
-        bufp->chgIData(oldp+159,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key013),32);
-        bufp->chgIData(oldp+160,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key020),32);
-        bufp->chgIData(oldp+161,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key021),32);
-        bufp->chgIData(oldp+162,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key022),32);
-        bufp->chgIData(oldp+163,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key023),32);
-        bufp->chgIData(oldp+164,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key030),32);
-        bufp->chgIData(oldp+165,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key031),32);
-        bufp->chgIData(oldp+166,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key032),32);
-        bufp->chgIData(oldp+167,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key033),32);
-        bufp->chgIData(oldp+168,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key100),32);
-        bufp->chgIData(oldp+169,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key101),32);
-        bufp->chgIData(oldp+170,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key102),32);
-        bufp->chgIData(oldp+171,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key103),32);
-        bufp->chgIData(oldp+172,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key110),32);
-        bufp->chgIData(oldp+173,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key111),32);
-        bufp->chgIData(oldp+174,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key112),32);
-        bufp->chgIData(oldp+175,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key113),32);
-        bufp->chgIData(oldp+176,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_00),32);
-        bufp->chgIData(oldp+177,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_01),32);
-        bufp->chgIData(oldp+178,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_02),32);
-        bufp->chgIData(oldp+179,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_03),32);
-        bufp->chgIData(oldp+180,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_10),32);
-        bufp->chgIData(oldp+181,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_11),32);
-        bufp->chgIData(oldp+182,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_12),32);
-        bufp->chgIData(oldp+183,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__r_13),32);
-        bufp->chgIData(oldp+184,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_00),32);
-        bufp->chgIData(oldp+185,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_01),32);
-        bufp->chgIData(oldp+186,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_02),32);
-        bufp->chgIData(oldp+187,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_03),32);
-        bufp->chgIData(oldp+188,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_10),32);
-        bufp->chgIData(oldp+189,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_11),32);
-        bufp->chgIData(oldp+190,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_12),32);
-        bufp->chgIData(oldp+191,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e1_13),32);
-        bufp->chgIData(oldp+192,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2_0),32);
-        bufp->chgIData(oldp+193,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2_1),32);
-        bufp->chgIData(oldp+194,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2_2),32);
-        bufp->chgIData(oldp+195,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__e2_3),32);
-        bufp->chgIData(oldp+196,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext000),32);
-        bufp->chgIData(oldp+197,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext001),32);
-        bufp->chgIData(oldp+198,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext002),32);
-        bufp->chgIData(oldp+199,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext003),32);
-        bufp->chgIData(oldp+200,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext010),32);
-        bufp->chgIData(oldp+201,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext011),32);
-        bufp->chgIData(oldp+202,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext012),32);
-        bufp->chgIData(oldp+203,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext013),32);
-        bufp->chgIData(oldp+204,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext100),32);
-        bufp->chgIData(oldp+205,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext101),32);
-        bufp->chgIData(oldp+206,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext102),32);
-        bufp->chgIData(oldp+207,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext103),32);
-        bufp->chgIData(oldp+208,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
+        bufp->chgIData(oldp+158,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[0]),32);
+        bufp->chgIData(oldp+159,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[1]),32);
+        bufp->chgIData(oldp+160,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[2]),32);
+        bufp->chgIData(oldp+161,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[3]),32);
+        bufp->chgIData(oldp+162,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[0]),32);
+        bufp->chgIData(oldp+163,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[1]),32);
+        bufp->chgIData(oldp+164,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[2]),32);
+        bufp->chgIData(oldp+165,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[3]),32);
+        bufp->chgIData(oldp+166,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
                                  [0U][0U]),32);
-        bufp->chgIData(oldp+209,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
+        bufp->chgIData(oldp+167,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
                                  [0U][1U]),32);
-        bufp->chgIData(oldp+210,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
+        bufp->chgIData(oldp+168,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
                                  [0U][2U]),32);
-        bufp->chgIData(oldp+211,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
+        bufp->chgIData(oldp+169,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
                                  [0U][3U]),32);
-        bufp->chgIData(oldp+212,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
+        bufp->chgIData(oldp+170,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
                                  [1U][0U]),32);
-        bufp->chgIData(oldp+213,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
+        bufp->chgIData(oldp+171,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
                                  [1U][1U]),32);
-        bufp->chgIData(oldp+214,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
+        bufp->chgIData(oldp+172,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
                                  [1U][2U]),32);
-        bufp->chgIData(oldp+215,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__secret_key
+        bufp->chgIData(oldp+173,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
                                  [1U][3U]),32);
-        bufp->chgIData(oldp+216,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+        bufp->chgIData(oldp+174,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
+                                 [0U][0U]),32);
+        bufp->chgIData(oldp+175,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
+                                 [0U][1U]),32);
+        bufp->chgIData(oldp+176,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
+                                 [0U][2U]),32);
+        bufp->chgIData(oldp+177,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
+                                 [0U][3U]),32);
+        bufp->chgIData(oldp+178,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
+                                 [1U][0U]),32);
+        bufp->chgIData(oldp+179,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
+                                 [1U][1U]),32);
+        bufp->chgIData(oldp+180,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
+                                 [1U][2U]),32);
+        bufp->chgIData(oldp+181,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
+                                 [1U][3U]),32);
+        bufp->chgIData(oldp+182,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e2[0]),32);
+        bufp->chgIData(oldp+183,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e2[1]),32);
+        bufp->chgIData(oldp+184,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e2[2]),32);
+        bufp->chgIData(oldp+185,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e2[3]),32);
+        bufp->chgCData(oldp+186,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients),4);
+        bufp->chgIData(oldp+187,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients_scaled[0]),32);
+        bufp->chgIData(oldp+188,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients_scaled[1]),32);
+        bufp->chgIData(oldp+189,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients_scaled[2]),32);
+        bufp->chgIData(oldp+190,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients_scaled[3]),32);
+        bufp->chgIData(oldp+191,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[0]),32);
+        bufp->chgIData(oldp+192,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[1]),32);
+        bufp->chgIData(oldp+193,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[2]),32);
+        bufp->chgIData(oldp+194,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[3]),32);
+        bufp->chgIData(oldp+195,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[0]),32);
+        bufp->chgIData(oldp+196,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[1]),32);
+        bufp->chgIData(oldp+197,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[2]),32);
+        bufp->chgIData(oldp+198,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[3]),32);
+        bufp->chgIData(oldp+199,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[0]),32);
+        bufp->chgIData(oldp+200,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[1]),32);
+        bufp->chgIData(oldp+201,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[2]),32);
+        bufp->chgIData(oldp+202,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[3]),32);
+        bufp->chgIData(oldp+203,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[0]),32);
+        bufp->chgIData(oldp+204,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[1]),32);
+        bufp->chgIData(oldp+205,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[2]),32);
+        bufp->chgIData(oldp+206,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[3]),32);
+        bufp->chgIData(oldp+207,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[0]),32);
+        bufp->chgIData(oldp+208,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[1]),32);
+        bufp->chgIData(oldp+209,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[2]),32);
+        bufp->chgIData(oldp+210,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[3]),32);
+        bufp->chgIData(oldp+211,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[0]),32);
+        bufp->chgIData(oldp+212,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[1]),32);
+        bufp->chgIData(oldp+213,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[2]),32);
+        bufp->chgIData(oldp+214,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[3]),32);
+        bufp->chgIData(oldp+215,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__unnamedblk1__DOT__j),32);
+        bufp->chgIData(oldp+216,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__unnamedblk2__DOT__i),32);
+        bufp->chgIData(oldp+217,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
+                                 [0U][0U]),32);
+        bufp->chgIData(oldp+218,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
+                                 [0U][1U]),32);
+        bufp->chgIData(oldp+219,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
+                                 [0U][2U]),32);
+        bufp->chgIData(oldp+220,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
+                                 [0U][3U]),32);
+        bufp->chgIData(oldp+221,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
+                                 [1U][0U]),32);
+        bufp->chgIData(oldp+222,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
+                                 [1U][1U]),32);
+        bufp->chgIData(oldp+223,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
+                                 [1U][2U]),32);
+        bufp->chgIData(oldp+224,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
+                                 [1U][3U]),32);
+        bufp->chgIData(oldp+225,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
+                                 [0U][0U]),32);
+        bufp->chgIData(oldp+226,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
+                                 [0U][1U]),32);
+        bufp->chgIData(oldp+227,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
+                                 [0U][2U]),32);
+        bufp->chgIData(oldp+228,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
+                                 [0U][3U]),32);
+        bufp->chgIData(oldp+229,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
+                                 [1U][0U]),32);
+        bufp->chgIData(oldp+230,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
+                                 [1U][1U]),32);
+        bufp->chgIData(oldp+231,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
+                                 [1U][2U]),32);
+        bufp->chgIData(oldp+232,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
+                                 [1U][3U]),32);
+        bufp->chgIData(oldp+233,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
+                                 [0U][0U]),32);
+        bufp->chgIData(oldp+234,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
+                                 [0U][1U]),32);
+        bufp->chgIData(oldp+235,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
+                                 [0U][2U]),32);
+        bufp->chgIData(oldp+236,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
+                                 [0U][3U]),32);
+        bufp->chgIData(oldp+237,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
+                                 [1U][0U]),32);
+        bufp->chgIData(oldp+238,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
+                                 [1U][1U]),32);
+        bufp->chgIData(oldp+239,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
+                                 [1U][2U]),32);
+        bufp->chgIData(oldp+240,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
+                                 [1U][3U]),32);
+        bufp->chgIData(oldp+241,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[0]),32);
+        bufp->chgIData(oldp+242,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[1]),32);
+        bufp->chgIData(oldp+243,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[2]),32);
+        bufp->chgIData(oldp+244,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[3]),32);
+        bufp->chgIData(oldp+245,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[0]),32);
+        bufp->chgIData(oldp+246,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[1]),32);
+        bufp->chgIData(oldp+247,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[2]),32);
+        bufp->chgIData(oldp+248,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[3]),32);
+        bufp->chgIData(oldp+249,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[0]),32);
+        bufp->chgIData(oldp+250,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[1]),32);
+        bufp->chgIData(oldp+251,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[2]),32);
+        bufp->chgIData(oldp+252,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[3]),32);
+        bufp->chgIData(oldp+253,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[0]),32);
+        bufp->chgIData(oldp+254,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[1]),32);
+        bufp->chgIData(oldp+255,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[2]),32);
+        bufp->chgIData(oldp+256,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[3]),32);
+        bufp->chgIData(oldp+257,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk1__DOT__i),32);
+        bufp->chgIData(oldp+258,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk1__DOT__unnamedblk2__DOT__j),32);
+        bufp->chgIData(oldp+259,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__unnamedblk1__DOT__i),32);
+        bufp->chgIData(oldp+260,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__unnamedblk1__DOT__unnamedblk2__DOT__j),32);
+        bufp->chgIData(oldp+261,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__unnamedblk3__DOT__i),32);
+        bufp->chgIData(oldp+262,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__unnamedblk3__DOT__unnamedblk4__DOT__j),32);
+        bufp->chgIData(oldp+263,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__unnamedblk5__DOT__i),32);
+    }
+    if (VL_UNLIKELY((vlSelf->__Vm_traceActivity[1U] 
+                     | vlSelf->__Vm_traceActivity[2U]))) {
+        bufp->chgIData(oldp+264,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+                                 [0U][0U]),32);
+        bufp->chgIData(oldp+265,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+                                 [0U][1U]),32);
+        bufp->chgIData(oldp+266,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+                                 [0U][2U]),32);
+        bufp->chgIData(oldp+267,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+                                 [0U][3U]),32);
+        bufp->chgIData(oldp+268,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+                                 [1U][0U]),32);
+        bufp->chgIData(oldp+269,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+                                 [1U][1U]),32);
+        bufp->chgIData(oldp+270,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+                                 [1U][2U]),32);
+        bufp->chgIData(oldp+271,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__result
+                                 [1U][3U]),32);
+        bufp->chgIData(oldp+272,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][0U][0U]),32);
-        bufp->chgIData(oldp+217,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+        bufp->chgIData(oldp+273,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][0U][1U]),32);
-        bufp->chgIData(oldp+218,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+        bufp->chgIData(oldp+274,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][0U][2U]),32);
-        bufp->chgIData(oldp+219,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+        bufp->chgIData(oldp+275,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][0U][3U]),32);
-        bufp->chgIData(oldp+220,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+        bufp->chgIData(oldp+276,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][1U][0U]),32);
-        bufp->chgIData(oldp+221,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+        bufp->chgIData(oldp+277,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][1U][1U]),32);
-        bufp->chgIData(oldp+222,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+        bufp->chgIData(oldp+278,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][1U][2U]),32);
-        bufp->chgIData(oldp+223,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+        bufp->chgIData(oldp+279,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][1U][3U]),32);
-        bufp->chgIData(oldp+224,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
-                                 [1U][0U][0U]),32);
-        bufp->chgIData(oldp+225,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
-                                 [1U][0U][1U]),32);
-        bufp->chgIData(oldp+226,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
-                                 [1U][0U][2U]),32);
-        bufp->chgIData(oldp+227,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
-                                 [1U][0U][3U]),32);
-        bufp->chgIData(oldp+228,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
-                                 [1U][1U][0U]),32);
-        bufp->chgIData(oldp+229,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
-                                 [1U][1U][1U]),32);
-        bufp->chgIData(oldp+230,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
-                                 [1U][1U][2U]),32);
-        bufp->chgIData(oldp+231,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
-                                 [1U][1U][3U]),32);
-        bufp->chgIData(oldp+232,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out0[0]),32);
-        bufp->chgIData(oldp+233,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out0[1]),32);
-        bufp->chgIData(oldp+234,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out0[2]),32);
-        bufp->chgIData(oldp+235,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out0[3]),32);
-        bufp->chgIData(oldp+236,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out1[0]),32);
-        bufp->chgIData(oldp+237,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out1[1]),32);
-        bufp->chgIData(oldp+238,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out1[2]),32);
-        bufp->chgIData(oldp+239,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out1[3]),32);
-        bufp->chgIData(oldp+240,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__temp_m_n[0]),32);
-        bufp->chgIData(oldp+241,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__temp_m_n[1]),32);
-        bufp->chgIData(oldp+242,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__temp_m_n[2]),32);
-        bufp->chgIData(oldp+243,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__temp_m_n[3]),32);
-        bufp->chgIData(oldp+244,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial1[0]),32);
-        bufp->chgIData(oldp+245,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial1[1]),32);
-        bufp->chgIData(oldp+246,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial1[2]),32);
-        bufp->chgIData(oldp+247,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial1[3]),32);
-        bufp->chgIData(oldp+248,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[0]),32);
-        bufp->chgIData(oldp+249,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[1]),32);
-        bufp->chgIData(oldp+250,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[2]),32);
-        bufp->chgIData(oldp+251,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial2[3]),32);
-        bufp->chgIData(oldp+252,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[0]),32);
-        bufp->chgIData(oldp+253,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[1]),32);
-        bufp->chgIData(oldp+254,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[2]),32);
-        bufp->chgIData(oldp+255,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[3]),32);
-        bufp->chgIData(oldp+256,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult1__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+257,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult1__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+258,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult1__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+259,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult1__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+260,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1[0]),32);
-        bufp->chgIData(oldp+261,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1[1]),32);
-        bufp->chgIData(oldp+262,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1[2]),32);
-        bufp->chgIData(oldp+263,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1[3]),32);
-        bufp->chgIData(oldp+264,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[0]),32);
-        bufp->chgIData(oldp+265,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[1]),32);
-        bufp->chgIData(oldp+266,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[2]),32);
-        bufp->chgIData(oldp+267,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial2[3]),32);
-        bufp->chgIData(oldp+268,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[0]),32);
-        bufp->chgIData(oldp+269,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[1]),32);
-        bufp->chgIData(oldp+270,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[2]),32);
-        bufp->chgIData(oldp+271,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[3]),32);
-        bufp->chgIData(oldp+272,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult2__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+273,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult2__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+274,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult2__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+275,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult2__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+276,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
-                                 [0U][0U]),32);
-        bufp->chgIData(oldp+277,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
-                                 [0U][1U]),32);
-        bufp->chgIData(oldp+278,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
-                                 [0U][2U]),32);
-        bufp->chgIData(oldp+279,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
-                                 [0U][3U]),32);
-        bufp->chgIData(oldp+280,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
-                                 [1U][0U]),32);
-        bufp->chgIData(oldp+281,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
-                                 [1U][1U]),32);
-        bufp->chgIData(oldp+282,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
-                                 [1U][2U]),32);
-        bufp->chgIData(oldp+283,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__r
-                                 [1U][3U]),32);
-        bufp->chgIData(oldp+284,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
-                                 [0U][0U]),32);
-        bufp->chgIData(oldp+285,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
-                                 [0U][1U]),32);
-        bufp->chgIData(oldp+286,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
-                                 [0U][2U]),32);
-        bufp->chgIData(oldp+287,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
-                                 [0U][3U]),32);
-        bufp->chgIData(oldp+288,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
-                                 [1U][0U]),32);
-        bufp->chgIData(oldp+289,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
-                                 [1U][1U]),32);
-        bufp->chgIData(oldp+290,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
-                                 [1U][2U]),32);
-        bufp->chgIData(oldp+291,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e1
-                                 [1U][3U]),32);
-        bufp->chgIData(oldp+292,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e2[0]),32);
-        bufp->chgIData(oldp+293,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e2[1]),32);
-        bufp->chgIData(oldp+294,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e2[2]),32);
-        bufp->chgIData(oldp+295,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__e2[3]),32);
-        bufp->chgIData(oldp+296,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
-                                 [0U][0U][0U]),32);
-        bufp->chgIData(oldp+297,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
-                                 [0U][0U][1U]),32);
-        bufp->chgIData(oldp+298,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
-                                 [0U][0U][2U]),32);
-        bufp->chgIData(oldp+299,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
-                                 [0U][0U][3U]),32);
-        bufp->chgIData(oldp+300,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
-                                 [0U][1U][0U]),32);
-        bufp->chgIData(oldp+301,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
-                                 [0U][1U][1U]),32);
-        bufp->chgIData(oldp+302,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
-                                 [0U][1U][2U]),32);
-        bufp->chgIData(oldp+303,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
-                                 [0U][1U][3U]),32);
-        bufp->chgIData(oldp+304,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+280,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][2U][0U]),32);
-        bufp->chgIData(oldp+305,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+281,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][2U][1U]),32);
-        bufp->chgIData(oldp+306,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+282,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][2U][2U]),32);
-        bufp->chgIData(oldp+307,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+283,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][2U][3U]),32);
-        bufp->chgIData(oldp+308,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+284,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][3U][0U]),32);
-        bufp->chgIData(oldp+309,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+285,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][3U][1U]),32);
-        bufp->chgIData(oldp+310,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+286,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][3U][2U]),32);
-        bufp->chgIData(oldp+311,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+287,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [0U][3U][3U]),32);
-        bufp->chgIData(oldp+312,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+288,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][0U][0U]),32);
-        bufp->chgIData(oldp+313,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+289,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][0U][1U]),32);
-        bufp->chgIData(oldp+314,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+290,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][0U][2U]),32);
-        bufp->chgIData(oldp+315,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+291,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][0U][3U]),32);
-        bufp->chgIData(oldp+316,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+292,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][1U][0U]),32);
-        bufp->chgIData(oldp+317,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+293,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][1U][1U]),32);
-        bufp->chgIData(oldp+318,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+294,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][1U][2U]),32);
-        bufp->chgIData(oldp+319,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+295,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][1U][3U]),32);
-        bufp->chgIData(oldp+320,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+296,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][2U][0U]),32);
-        bufp->chgIData(oldp+321,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+297,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][2U][1U]),32);
-        bufp->chgIData(oldp+322,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+298,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][2U][2U]),32);
-        bufp->chgIData(oldp+323,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+299,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][2U][3U]),32);
-        bufp->chgIData(oldp+324,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+300,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][3U][0U]),32);
-        bufp->chgIData(oldp+325,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+301,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][3U][1U]),32);
-        bufp->chgIData(oldp+326,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+302,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][3U][2U]),32);
-        bufp->chgIData(oldp+327,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+        bufp->chgIData(oldp+303,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__public_key
                                  [1U][3U][3U]),32);
-        bufp->chgIData(oldp+328,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+304,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [0U][0U][0U]),32);
-        bufp->chgIData(oldp+329,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+305,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [0U][0U][1U]),32);
-        bufp->chgIData(oldp+330,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+306,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [0U][0U][2U]),32);
-        bufp->chgIData(oldp+331,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+307,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [0U][0U][3U]),32);
-        bufp->chgIData(oldp+332,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+308,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [0U][1U][0U]),32);
-        bufp->chgIData(oldp+333,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+309,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [0U][1U][1U]),32);
-        bufp->chgIData(oldp+334,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+310,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [0U][1U][2U]),32);
-        bufp->chgIData(oldp+335,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+311,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [0U][1U][3U]),32);
-        bufp->chgIData(oldp+336,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+312,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [1U][0U][0U]),32);
-        bufp->chgIData(oldp+337,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+313,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [1U][0U][1U]),32);
-        bufp->chgIData(oldp+338,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+314,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [1U][0U][2U]),32);
-        bufp->chgIData(oldp+339,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+315,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [1U][0U][3U]),32);
-        bufp->chgIData(oldp+340,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+316,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [1U][1U][0U]),32);
-        bufp->chgIData(oldp+341,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+317,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [1U][1U][1U]),32);
-        bufp->chgIData(oldp+342,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+318,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [1U][1U][2U]),32);
-        bufp->chgIData(oldp+343,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+        bufp->chgIData(oldp+319,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__ciphertext
                                  [1U][1U][3U]),32);
-        bufp->chgIData(oldp+344,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+    }
+    if (VL_UNLIKELY(vlSelf->__Vm_traceActivity[2U])) {
+        bufp->chgIData(oldp+320,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decimal_value),32);
+        bufp->chgCData(oldp+321,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__m_b),4);
+        bufp->chgIData(oldp+322,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [0U][0U][0U]),32);
+        bufp->chgIData(oldp+323,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [0U][0U][1U]),32);
+        bufp->chgIData(oldp+324,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [0U][0U][2U]),32);
+        bufp->chgIData(oldp+325,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [0U][0U][3U]),32);
+        bufp->chgIData(oldp+326,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [0U][1U][0U]),32);
+        bufp->chgIData(oldp+327,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [0U][1U][1U]),32);
+        bufp->chgIData(oldp+328,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [0U][1U][2U]),32);
+        bufp->chgIData(oldp+329,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [0U][1U][3U]),32);
+        bufp->chgIData(oldp+330,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [1U][0U][0U]),32);
+        bufp->chgIData(oldp+331,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [1U][0U][1U]),32);
+        bufp->chgIData(oldp+332,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [1U][0U][2U]),32);
+        bufp->chgIData(oldp+333,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [1U][0U][3U]),32);
+        bufp->chgIData(oldp+334,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [1U][1U][0U]),32);
+        bufp->chgIData(oldp+335,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [1U][1U][1U]),32);
+        bufp->chgIData(oldp+336,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [1U][1U][2U]),32);
+        bufp->chgIData(oldp+337,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__decryption__ciphertext
+                                 [1U][1U][3U]),32);
+        bufp->chgIData(oldp+338,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out0[0]),32);
+        bufp->chgIData(oldp+339,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out0[1]),32);
+        bufp->chgIData(oldp+340,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out0[2]),32);
+        bufp->chgIData(oldp+341,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out0[3]),32);
+        bufp->chgIData(oldp+342,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out1[0]),32);
+        bufp->chgIData(oldp+343,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out1[1]),32);
+        bufp->chgIData(oldp+344,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out1[2]),32);
+        bufp->chgIData(oldp+345,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_out1[3]),32);
+        bufp->chgIData(oldp+346,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__temp_m_n[0]),32);
+        bufp->chgIData(oldp+347,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__temp_m_n[1]),32);
+        bufp->chgIData(oldp+348,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__temp_m_n[2]),32);
+        bufp->chgIData(oldp+349,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__temp_m_n[3]),32);
+        bufp->chgIData(oldp+350,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial1[0]),32);
+        bufp->chgIData(oldp+351,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial1[1]),32);
+        bufp->chgIData(oldp+352,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial1[2]),32);
+        bufp->chgIData(oldp+353,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult1__polynomial1[3]),32);
+        bufp->chgIData(oldp+354,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[0]),32);
+        bufp->chgIData(oldp+355,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[1]),32);
+        bufp->chgIData(oldp+356,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[2]),32);
+        bufp->chgIData(oldp+357,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult1__polynomial_out[3]),32);
+        bufp->chgIData(oldp+358,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult1__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+359,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult1__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+360,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult1__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+361,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult1__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+362,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1[0]),32);
+        bufp->chgIData(oldp+363,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1[1]),32);
+        bufp->chgIData(oldp+364,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1[2]),32);
+        bufp->chgIData(oldp+365,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellinp__poly_mult2__polynomial1[3]),32);
+        bufp->chgIData(oldp+366,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[0]),32);
+        bufp->chgIData(oldp+367,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[1]),32);
+        bufp->chgIData(oldp+368,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[2]),32);
+        bufp->chgIData(oldp+369,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT____Vcellout__poly_mult2__polynomial_out[3]),32);
+        bufp->chgIData(oldp+370,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult2__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+371,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult2__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+372,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult2__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+373,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__decryption__DOT__poly_mult2__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+374,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][0U][0U]),32);
+        bufp->chgIData(oldp+375,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][0U][1U]),32);
+        bufp->chgIData(oldp+376,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][0U][2U]),32);
+        bufp->chgIData(oldp+377,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][0U][3U]),32);
+        bufp->chgIData(oldp+378,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][1U][0U]),32);
+        bufp->chgIData(oldp+379,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][1U][1U]),32);
+        bufp->chgIData(oldp+380,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][1U][2U]),32);
+        bufp->chgIData(oldp+381,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][1U][3U]),32);
+        bufp->chgIData(oldp+382,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][2U][0U]),32);
+        bufp->chgIData(oldp+383,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][2U][1U]),32);
+        bufp->chgIData(oldp+384,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][2U][2U]),32);
+        bufp->chgIData(oldp+385,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][2U][3U]),32);
+        bufp->chgIData(oldp+386,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][3U][0U]),32);
+        bufp->chgIData(oldp+387,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][3U][1U]),32);
+        bufp->chgIData(oldp+388,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][3U][2U]),32);
+        bufp->chgIData(oldp+389,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [0U][3U][3U]),32);
+        bufp->chgIData(oldp+390,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][0U][0U]),32);
+        bufp->chgIData(oldp+391,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][0U][1U]),32);
+        bufp->chgIData(oldp+392,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][0U][2U]),32);
+        bufp->chgIData(oldp+393,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][0U][3U]),32);
+        bufp->chgIData(oldp+394,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][1U][0U]),32);
+        bufp->chgIData(oldp+395,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][1U][1U]),32);
+        bufp->chgIData(oldp+396,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][1U][2U]),32);
+        bufp->chgIData(oldp+397,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][1U][3U]),32);
+        bufp->chgIData(oldp+398,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][2U][0U]),32);
+        bufp->chgIData(oldp+399,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][2U][1U]),32);
+        bufp->chgIData(oldp+400,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][2U][2U]),32);
+        bufp->chgIData(oldp+401,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][2U][3U]),32);
+        bufp->chgIData(oldp+402,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][3U][0U]),32);
+        bufp->chgIData(oldp+403,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][3U][1U]),32);
+        bufp->chgIData(oldp+404,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][3U][2U]),32);
+        bufp->chgIData(oldp+405,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__encryption__combined_output
+                                 [1U][3U][3U]),32);
+        bufp->chgIData(oldp+406,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [0U][0U][0U]),32);
+        bufp->chgIData(oldp+407,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [0U][0U][1U]),32);
+        bufp->chgIData(oldp+408,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [0U][0U][2U]),32);
+        bufp->chgIData(oldp+409,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [0U][0U][3U]),32);
+        bufp->chgIData(oldp+410,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [0U][1U][0U]),32);
+        bufp->chgIData(oldp+411,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [0U][1U][1U]),32);
+        bufp->chgIData(oldp+412,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [0U][1U][2U]),32);
+        bufp->chgIData(oldp+413,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [0U][1U][3U]),32);
+        bufp->chgIData(oldp+414,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [1U][0U][0U]),32);
+        bufp->chgIData(oldp+415,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [1U][0U][1U]),32);
+        bufp->chgIData(oldp+416,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [1U][0U][2U]),32);
+        bufp->chgIData(oldp+417,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [1U][0U][3U]),32);
+        bufp->chgIData(oldp+418,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [1U][1U][0U]),32);
+        bufp->chgIData(oldp+419,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [1U][1U][1U]),32);
+        bufp->chgIData(oldp+420,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [1U][1U][2U]),32);
+        bufp->chgIData(oldp+421,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__encryption__ciphertext
+                                 [1U][1U][3U]),32);
+        bufp->chgIData(oldp+422,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [0U][0U]),32);
-        bufp->chgIData(oldp+345,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+423,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [0U][1U]),32);
-        bufp->chgIData(oldp+346,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+424,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [0U][2U]),32);
-        bufp->chgIData(oldp+347,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+425,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [0U][3U]),32);
-        bufp->chgIData(oldp+348,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+426,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [1U][0U]),32);
-        bufp->chgIData(oldp+349,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+427,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [1U][1U]),32);
-        bufp->chgIData(oldp+350,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+428,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [1U][2U]),32);
-        bufp->chgIData(oldp+351,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+429,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [1U][3U]),32);
-        bufp->chgIData(oldp+352,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+430,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [2U][0U]),32);
-        bufp->chgIData(oldp+353,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+431,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [2U][1U]),32);
-        bufp->chgIData(oldp+354,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+432,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [2U][2U]),32);
-        bufp->chgIData(oldp+355,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+433,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [2U][3U]),32);
-        bufp->chgIData(oldp+356,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+434,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [3U][0U]),32);
-        bufp->chgIData(oldp+357,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+435,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [3U][1U]),32);
-        bufp->chgIData(oldp+358,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+436,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [3U][2U]),32);
-        bufp->chgIData(oldp+359,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
+        bufp->chgIData(oldp+437,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__transposed_matrix
                                  [3U][3U]),32);
-        bufp->chgIData(oldp+360,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out0[0]),32);
-        bufp->chgIData(oldp+361,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out0[1]),32);
-        bufp->chgIData(oldp+362,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out0[2]),32);
-        bufp->chgIData(oldp+363,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out0[3]),32);
-        bufp->chgIData(oldp+364,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out1[0]),32);
-        bufp->chgIData(oldp+365,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out1[1]),32);
-        bufp->chgIData(oldp+366,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out1[2]),32);
-        bufp->chgIData(oldp+367,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out1[3]),32);
-        bufp->chgIData(oldp+368,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out2[0]),32);
-        bufp->chgIData(oldp+369,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out2[1]),32);
-        bufp->chgIData(oldp+370,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out2[2]),32);
-        bufp->chgIData(oldp+371,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out2[3]),32);
-        bufp->chgIData(oldp+372,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out3[0]),32);
-        bufp->chgIData(oldp+373,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out3[1]),32);
-        bufp->chgIData(oldp+374,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out3[2]),32);
-        bufp->chgIData(oldp+375,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out3[3]),32);
-        bufp->chgIData(oldp+376,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out4[0]),32);
-        bufp->chgIData(oldp+377,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out4[1]),32);
-        bufp->chgIData(oldp+378,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out4[2]),32);
-        bufp->chgIData(oldp+379,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out4[3]),32);
-        bufp->chgIData(oldp+380,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out5[0]),32);
-        bufp->chgIData(oldp+381,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out5[1]),32);
-        bufp->chgIData(oldp+382,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out5[2]),32);
-        bufp->chgIData(oldp+383,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out5[3]),32);
-        bufp->chgIData(oldp+384,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added[0]),32);
-        bufp->chgIData(oldp+385,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added[1]),32);
-        bufp->chgIData(oldp+386,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added[2]),32);
-        bufp->chgIData(oldp+387,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added[3]),32);
-        bufp->chgIData(oldp+388,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added1[0]),32);
-        bufp->chgIData(oldp+389,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added1[1]),32);
-        bufp->chgIData(oldp+390,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added1[2]),32);
-        bufp->chgIData(oldp+391,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added1[3]),32);
-        bufp->chgIData(oldp+392,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added2[0]),32);
-        bufp->chgIData(oldp+393,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added2[1]),32);
-        bufp->chgIData(oldp+394,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added2[2]),32);
-        bufp->chgIData(oldp+395,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added2[3]),32);
-        bufp->chgCData(oldp+396,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients),4);
-        bufp->chgIData(oldp+397,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients_scaled[0]),32);
-        bufp->chgIData(oldp+398,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients_scaled[1]),32);
-        bufp->chgIData(oldp+399,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients_scaled[2]),32);
-        bufp->chgIData(oldp+400,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__coefficients_scaled[3]),32);
-        bufp->chgIData(oldp+401,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
+        bufp->chgIData(oldp+438,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out0[0]),32);
+        bufp->chgIData(oldp+439,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out0[1]),32);
+        bufp->chgIData(oldp+440,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out0[2]),32);
+        bufp->chgIData(oldp+441,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out0[3]),32);
+        bufp->chgIData(oldp+442,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out1[0]),32);
+        bufp->chgIData(oldp+443,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out1[1]),32);
+        bufp->chgIData(oldp+444,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out1[2]),32);
+        bufp->chgIData(oldp+445,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out1[3]),32);
+        bufp->chgIData(oldp+446,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out2[0]),32);
+        bufp->chgIData(oldp+447,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out2[1]),32);
+        bufp->chgIData(oldp+448,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out2[2]),32);
+        bufp->chgIData(oldp+449,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out2[3]),32);
+        bufp->chgIData(oldp+450,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out3[0]),32);
+        bufp->chgIData(oldp+451,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out3[1]),32);
+        bufp->chgIData(oldp+452,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out3[2]),32);
+        bufp->chgIData(oldp+453,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out3[3]),32);
+        bufp->chgIData(oldp+454,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out4[0]),32);
+        bufp->chgIData(oldp+455,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out4[1]),32);
+        bufp->chgIData(oldp+456,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out4[2]),32);
+        bufp->chgIData(oldp+457,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out4[3]),32);
+        bufp->chgIData(oldp+458,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out5[0]),32);
+        bufp->chgIData(oldp+459,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out5[1]),32);
+        bufp->chgIData(oldp+460,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out5[2]),32);
+        bufp->chgIData(oldp+461,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_out5[3]),32);
+        bufp->chgIData(oldp+462,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added[0]),32);
+        bufp->chgIData(oldp+463,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added[1]),32);
+        bufp->chgIData(oldp+464,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added[2]),32);
+        bufp->chgIData(oldp+465,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added[3]),32);
+        bufp->chgIData(oldp+466,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added1[0]),32);
+        bufp->chgIData(oldp+467,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added1[1]),32);
+        bufp->chgIData(oldp+468,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added1[2]),32);
+        bufp->chgIData(oldp+469,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added1[3]),32);
+        bufp->chgIData(oldp+470,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added2[0]),32);
+        bufp->chgIData(oldp+471,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added2[1]),32);
+        bufp->chgIData(oldp+472,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added2[2]),32);
+        bufp->chgIData(oldp+473,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__added2[3]),32);
+        bufp->chgIData(oldp+474,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
                                  [0U][0U]),32);
-        bufp->chgIData(oldp+402,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
+        bufp->chgIData(oldp+475,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
                                  [0U][1U]),32);
-        bufp->chgIData(oldp+403,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
+        bufp->chgIData(oldp+476,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
                                  [0U][2U]),32);
-        bufp->chgIData(oldp+404,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
+        bufp->chgIData(oldp+477,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
                                  [0U][3U]),32);
-        bufp->chgIData(oldp+405,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
+        bufp->chgIData(oldp+478,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
                                  [1U][0U]),32);
-        bufp->chgIData(oldp+406,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
+        bufp->chgIData(oldp+479,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
                                  [1U][1U]),32);
-        bufp->chgIData(oldp+407,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
+        bufp->chgIData(oldp+480,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
                                  [1U][2U]),32);
-        bufp->chgIData(oldp+408,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
+        bufp->chgIData(oldp+481,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__u
                                  [1U][3U]),32);
-        bufp->chgIData(oldp+409,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__v[0]),32);
-        bufp->chgIData(oldp+410,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__v[1]),32);
-        bufp->chgIData(oldp+411,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__v[2]),32);
-        bufp->chgIData(oldp+412,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__v[3]),32);
-        bufp->chgIData(oldp+413,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial1[0]),32);
-        bufp->chgIData(oldp+414,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial1[1]),32);
-        bufp->chgIData(oldp+415,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial1[2]),32);
-        bufp->chgIData(oldp+416,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial1[3]),32);
-        bufp->chgIData(oldp+417,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[0]),32);
-        bufp->chgIData(oldp+418,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[1]),32);
-        bufp->chgIData(oldp+419,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[2]),32);
-        bufp->chgIData(oldp+420,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial2[3]),32);
-        bufp->chgIData(oldp+421,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[0]),32);
-        bufp->chgIData(oldp+422,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[1]),32);
-        bufp->chgIData(oldp+423,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[2]),32);
-        bufp->chgIData(oldp+424,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[3]),32);
-        bufp->chgIData(oldp+425,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+426,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+427,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+428,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+429,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial1[0]),32);
-        bufp->chgIData(oldp+430,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial1[1]),32);
-        bufp->chgIData(oldp+431,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial1[2]),32);
-        bufp->chgIData(oldp+432,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial1[3]),32);
-        bufp->chgIData(oldp+433,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[0]),32);
-        bufp->chgIData(oldp+434,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[1]),32);
-        bufp->chgIData(oldp+435,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[2]),32);
-        bufp->chgIData(oldp+436,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial2[3]),32);
-        bufp->chgIData(oldp+437,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[0]),32);
-        bufp->chgIData(oldp+438,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[1]),32);
-        bufp->chgIData(oldp+439,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[2]),32);
-        bufp->chgIData(oldp+440,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[3]),32);
-        bufp->chgIData(oldp+441,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+442,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+443,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+444,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+445,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial1[0]),32);
-        bufp->chgIData(oldp+446,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial1[1]),32);
-        bufp->chgIData(oldp+447,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial1[2]),32);
-        bufp->chgIData(oldp+448,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial1[3]),32);
-        bufp->chgIData(oldp+449,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[0]),32);
-        bufp->chgIData(oldp+450,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[1]),32);
-        bufp->chgIData(oldp+451,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[2]),32);
-        bufp->chgIData(oldp+452,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial2[3]),32);
-        bufp->chgIData(oldp+453,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[0]),32);
-        bufp->chgIData(oldp+454,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[1]),32);
-        bufp->chgIData(oldp+455,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[2]),32);
-        bufp->chgIData(oldp+456,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[3]),32);
-        bufp->chgIData(oldp+457,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+458,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+459,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+460,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+461,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial1[0]),32);
-        bufp->chgIData(oldp+462,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial1[1]),32);
-        bufp->chgIData(oldp+463,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial1[2]),32);
-        bufp->chgIData(oldp+464,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial1[3]),32);
-        bufp->chgIData(oldp+465,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[0]),32);
-        bufp->chgIData(oldp+466,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[1]),32);
-        bufp->chgIData(oldp+467,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[2]),32);
-        bufp->chgIData(oldp+468,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial2[3]),32);
-        bufp->chgIData(oldp+469,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[0]),32);
-        bufp->chgIData(oldp+470,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[1]),32);
-        bufp->chgIData(oldp+471,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[2]),32);
-        bufp->chgIData(oldp+472,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[3]),32);
-        bufp->chgIData(oldp+473,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+474,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+475,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+476,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+477,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial1[0]),32);
-        bufp->chgIData(oldp+478,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial1[1]),32);
-        bufp->chgIData(oldp+479,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial1[2]),32);
-        bufp->chgIData(oldp+480,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial1[3]),32);
-        bufp->chgIData(oldp+481,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[0]),32);
-        bufp->chgIData(oldp+482,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[1]),32);
-        bufp->chgIData(oldp+483,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[2]),32);
-        bufp->chgIData(oldp+484,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial2[3]),32);
-        bufp->chgIData(oldp+485,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[0]),32);
-        bufp->chgIData(oldp+486,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[1]),32);
-        bufp->chgIData(oldp+487,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[2]),32);
-        bufp->chgIData(oldp+488,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[3]),32);
-        bufp->chgIData(oldp+489,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+490,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+491,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+492,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+493,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial1[0]),32);
-        bufp->chgIData(oldp+494,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial1[1]),32);
-        bufp->chgIData(oldp+495,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial1[2]),32);
-        bufp->chgIData(oldp+496,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial1[3]),32);
-        bufp->chgIData(oldp+497,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[0]),32);
-        bufp->chgIData(oldp+498,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[1]),32);
-        bufp->chgIData(oldp+499,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[2]),32);
-        bufp->chgIData(oldp+500,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial2[3]),32);
-        bufp->chgIData(oldp+501,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[0]),32);
-        bufp->chgIData(oldp+502,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[1]),32);
-        bufp->chgIData(oldp+503,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[2]),32);
-        bufp->chgIData(oldp+504,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[3]),32);
-        bufp->chgIData(oldp+505,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+506,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+507,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+508,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+509,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+482,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__v[0]),32);
+        bufp->chgIData(oldp+483,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__v[1]),32);
+        bufp->chgIData(oldp+484,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__v[2]),32);
+        bufp->chgIData(oldp+485,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__v[3]),32);
+        bufp->chgIData(oldp+486,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial1[0]),32);
+        bufp->chgIData(oldp+487,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial1[1]),32);
+        bufp->chgIData(oldp+488,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial1[2]),32);
+        bufp->chgIData(oldp+489,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst__polynomial1[3]),32);
+        bufp->chgIData(oldp+490,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[0]),32);
+        bufp->chgIData(oldp+491,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[1]),32);
+        bufp->chgIData(oldp+492,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[2]),32);
+        bufp->chgIData(oldp+493,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst__polynomial_out[3]),32);
+        bufp->chgIData(oldp+494,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+495,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+496,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+497,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+498,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial1[0]),32);
+        bufp->chgIData(oldp+499,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial1[1]),32);
+        bufp->chgIData(oldp+500,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial1[2]),32);
+        bufp->chgIData(oldp+501,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst1__polynomial1[3]),32);
+        bufp->chgIData(oldp+502,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[0]),32);
+        bufp->chgIData(oldp+503,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[1]),32);
+        bufp->chgIData(oldp+504,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[2]),32);
+        bufp->chgIData(oldp+505,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst1__polynomial_out[3]),32);
+        bufp->chgIData(oldp+506,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+507,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+508,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+509,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst1__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+510,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial1[0]),32);
+        bufp->chgIData(oldp+511,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial1[1]),32);
+        bufp->chgIData(oldp+512,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial1[2]),32);
+        bufp->chgIData(oldp+513,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst2__polynomial1[3]),32);
+        bufp->chgIData(oldp+514,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[0]),32);
+        bufp->chgIData(oldp+515,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[1]),32);
+        bufp->chgIData(oldp+516,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[2]),32);
+        bufp->chgIData(oldp+517,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst2__polynomial_out[3]),32);
+        bufp->chgIData(oldp+518,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+519,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+520,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+521,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst2__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+522,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial1[0]),32);
+        bufp->chgIData(oldp+523,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial1[1]),32);
+        bufp->chgIData(oldp+524,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial1[2]),32);
+        bufp->chgIData(oldp+525,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst3__polynomial1[3]),32);
+        bufp->chgIData(oldp+526,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[0]),32);
+        bufp->chgIData(oldp+527,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[1]),32);
+        bufp->chgIData(oldp+528,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[2]),32);
+        bufp->chgIData(oldp+529,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst3__polynomial_out[3]),32);
+        bufp->chgIData(oldp+530,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+531,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+532,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+533,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst3__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+534,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial1[0]),32);
+        bufp->chgIData(oldp+535,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial1[1]),32);
+        bufp->chgIData(oldp+536,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial1[2]),32);
+        bufp->chgIData(oldp+537,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst4__polynomial1[3]),32);
+        bufp->chgIData(oldp+538,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[0]),32);
+        bufp->chgIData(oldp+539,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[1]),32);
+        bufp->chgIData(oldp+540,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[2]),32);
+        bufp->chgIData(oldp+541,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst4__polynomial_out[3]),32);
+        bufp->chgIData(oldp+542,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+543,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+544,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+545,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst4__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+546,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial1[0]),32);
+        bufp->chgIData(oldp+547,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial1[1]),32);
+        bufp->chgIData(oldp+548,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial1[2]),32);
+        bufp->chgIData(oldp+549,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__poly_mult_inst5__polynomial1[3]),32);
+        bufp->chgIData(oldp+550,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[0]),32);
+        bufp->chgIData(oldp+551,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[1]),32);
+        bufp->chgIData(oldp+552,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[2]),32);
+        bufp->chgIData(oldp+553,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__poly_mult_inst5__polynomial_out[3]),32);
+        bufp->chgIData(oldp+554,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+555,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+556,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+557,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__poly_mult_inst5__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+558,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [0U][0U]),32);
-        bufp->chgIData(oldp+510,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+559,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [0U][1U]),32);
-        bufp->chgIData(oldp+511,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+560,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [0U][2U]),32);
-        bufp->chgIData(oldp+512,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+561,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [0U][3U]),32);
-        bufp->chgIData(oldp+513,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+562,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [1U][0U]),32);
-        bufp->chgIData(oldp+514,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+563,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [1U][1U]),32);
-        bufp->chgIData(oldp+515,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+564,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [1U][2U]),32);
-        bufp->chgIData(oldp+516,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+565,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [1U][3U]),32);
-        bufp->chgIData(oldp+517,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+566,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [2U][0U]),32);
-        bufp->chgIData(oldp+518,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+567,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [2U][1U]),32);
-        bufp->chgIData(oldp+519,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+568,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [2U][2U]),32);
-        bufp->chgIData(oldp+520,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+569,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [2U][3U]),32);
-        bufp->chgIData(oldp+521,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+570,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [3U][0U]),32);
-        bufp->chgIData(oldp+522,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+571,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [3U][1U]),32);
-        bufp->chgIData(oldp+523,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+572,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [3U][2U]),32);
-        bufp->chgIData(oldp+524,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
+        bufp->chgIData(oldp+573,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellinp__transpose_inst__matrix_in
                                  [3U][3U]),32);
-        bufp->chgIData(oldp+525,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+574,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [0U][0U]),32);
-        bufp->chgIData(oldp+526,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+575,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [0U][1U]),32);
-        bufp->chgIData(oldp+527,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+576,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [0U][2U]),32);
-        bufp->chgIData(oldp+528,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+577,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [0U][3U]),32);
-        bufp->chgIData(oldp+529,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+578,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [1U][0U]),32);
-        bufp->chgIData(oldp+530,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+579,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [1U][1U]),32);
-        bufp->chgIData(oldp+531,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+580,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [1U][2U]),32);
-        bufp->chgIData(oldp+532,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+581,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [1U][3U]),32);
-        bufp->chgIData(oldp+533,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+582,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [2U][0U]),32);
-        bufp->chgIData(oldp+534,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+583,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [2U][1U]),32);
-        bufp->chgIData(oldp+535,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+584,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [2U][2U]),32);
-        bufp->chgIData(oldp+536,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+585,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [2U][3U]),32);
-        bufp->chgIData(oldp+537,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+586,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [3U][0U]),32);
-        bufp->chgIData(oldp+538,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+587,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [3U][1U]),32);
-        bufp->chgIData(oldp+539,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+588,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [3U][2U]),32);
-        bufp->chgIData(oldp+540,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
+        bufp->chgIData(oldp+589,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT____Vcellout__transpose_inst__matrix_out
                                  [3U][3U]),32);
-        bufp->chgIData(oldp+541,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__unnamedblk1__DOT__j),32);
-        bufp->chgIData(oldp+542,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__encryption__DOT__unnamedblk2__DOT__i),32);
-        bufp->chgIData(oldp+543,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [0U][0U]),32);
-        bufp->chgIData(oldp+544,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [0U][1U]),32);
-        bufp->chgIData(oldp+545,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [0U][2U]),32);
-        bufp->chgIData(oldp+546,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [0U][3U]),32);
-        bufp->chgIData(oldp+547,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [1U][0U]),32);
-        bufp->chgIData(oldp+548,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [1U][1U]),32);
-        bufp->chgIData(oldp+549,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [1U][2U]),32);
-        bufp->chgIData(oldp+550,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [1U][3U]),32);
-        bufp->chgIData(oldp+551,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [2U][0U]),32);
-        bufp->chgIData(oldp+552,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [2U][1U]),32);
-        bufp->chgIData(oldp+553,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [2U][2U]),32);
-        bufp->chgIData(oldp+554,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [2U][3U]),32);
-        bufp->chgIData(oldp+555,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [3U][0U]),32);
-        bufp->chgIData(oldp+556,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [3U][1U]),32);
-        bufp->chgIData(oldp+557,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [3U][2U]),32);
-        bufp->chgIData(oldp+558,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
-                                 [3U][3U]),32);
-        bufp->chgIData(oldp+559,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
-                                 [0U][0U]),32);
-        bufp->chgIData(oldp+560,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
-                                 [0U][1U]),32);
-        bufp->chgIData(oldp+561,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
-                                 [0U][2U]),32);
-        bufp->chgIData(oldp+562,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
-                                 [0U][3U]),32);
-        bufp->chgIData(oldp+563,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
-                                 [1U][0U]),32);
-        bufp->chgIData(oldp+564,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
-                                 [1U][1U]),32);
-        bufp->chgIData(oldp+565,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
-                                 [1U][2U]),32);
-        bufp->chgIData(oldp+566,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__e
-                                 [1U][3U]),32);
-        bufp->chgIData(oldp+567,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
-                                 [0U][0U]),32);
-        bufp->chgIData(oldp+568,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
-                                 [0U][1U]),32);
-        bufp->chgIData(oldp+569,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
-                                 [0U][2U]),32);
-        bufp->chgIData(oldp+570,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
-                                 [0U][3U]),32);
-        bufp->chgIData(oldp+571,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
-                                 [1U][0U]),32);
-        bufp->chgIData(oldp+572,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
-                                 [1U][1U]),32);
-        bufp->chgIData(oldp+573,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
-                                 [1U][2U]),32);
-        bufp->chgIData(oldp+574,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__secret_key
-                                 [1U][3U]),32);
-        bufp->chgIData(oldp+575,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
-                                 [0U][0U]),32);
-        bufp->chgIData(oldp+576,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
-                                 [0U][1U]),32);
-        bufp->chgIData(oldp+577,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
-                                 [0U][2U]),32);
-        bufp->chgIData(oldp+578,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
-                                 [0U][3U]),32);
-        bufp->chgIData(oldp+579,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
-                                 [1U][0U]),32);
-        bufp->chgIData(oldp+580,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
-                                 [1U][1U]),32);
-        bufp->chgIData(oldp+581,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
-                                 [1U][2U]),32);
-        bufp->chgIData(oldp+582,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__secretkey
-                                 [1U][3U]),32);
-        bufp->chgIData(oldp+583,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
-                                 [0U][0U]),32);
-        bufp->chgIData(oldp+584,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
-                                 [0U][1U]),32);
-        bufp->chgIData(oldp+585,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
-                                 [0U][2U]),32);
-        bufp->chgIData(oldp+586,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
-                                 [0U][3U]),32);
-        bufp->chgIData(oldp+587,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
-                                 [1U][0U]),32);
-        bufp->chgIData(oldp+588,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
-                                 [1U][1U]),32);
-        bufp->chgIData(oldp+589,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
-                                 [1U][2U]),32);
         bufp->chgIData(oldp+590,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
+                                 [0U][0U]),32);
+        bufp->chgIData(oldp+591,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
+                                 [0U][1U]),32);
+        bufp->chgIData(oldp+592,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
+                                 [0U][2U]),32);
+        bufp->chgIData(oldp+593,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
+                                 [0U][3U]),32);
+        bufp->chgIData(oldp+594,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
+                                 [1U][0U]),32);
+        bufp->chgIData(oldp+595,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
+                                 [1U][1U]),32);
+        bufp->chgIData(oldp+596,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
+                                 [1U][2U]),32);
+        bufp->chgIData(oldp+597,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__result
                                  [1U][3U]),32);
-        bufp->chgIData(oldp+591,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][0U][0U]),32);
-        bufp->chgIData(oldp+592,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][0U][1U]),32);
-        bufp->chgIData(oldp+593,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][0U][2U]),32);
-        bufp->chgIData(oldp+594,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][0U][3U]),32);
-        bufp->chgIData(oldp+595,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][1U][0U]),32);
-        bufp->chgIData(oldp+596,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][1U][1U]),32);
-        bufp->chgIData(oldp+597,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][1U][2U]),32);
         bufp->chgIData(oldp+598,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][1U][3U]),32);
+                                 [0U][0U][0U]),32);
         bufp->chgIData(oldp+599,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][2U][0U]),32);
+                                 [0U][0U][1U]),32);
         bufp->chgIData(oldp+600,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][2U][1U]),32);
+                                 [0U][0U][2U]),32);
         bufp->chgIData(oldp+601,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][2U][2U]),32);
+                                 [0U][0U][3U]),32);
         bufp->chgIData(oldp+602,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][2U][3U]),32);
+                                 [0U][1U][0U]),32);
         bufp->chgIData(oldp+603,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][3U][0U]),32);
+                                 [0U][1U][1U]),32);
         bufp->chgIData(oldp+604,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][3U][1U]),32);
+                                 [0U][1U][2U]),32);
         bufp->chgIData(oldp+605,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][3U][2U]),32);
+                                 [0U][1U][3U]),32);
         bufp->chgIData(oldp+606,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [0U][3U][3U]),32);
+                                 [0U][2U][0U]),32);
         bufp->chgIData(oldp+607,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][0U][0U]),32);
+                                 [0U][2U][1U]),32);
         bufp->chgIData(oldp+608,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][0U][1U]),32);
+                                 [0U][2U][2U]),32);
         bufp->chgIData(oldp+609,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][0U][2U]),32);
+                                 [0U][2U][3U]),32);
         bufp->chgIData(oldp+610,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][0U][3U]),32);
+                                 [0U][3U][0U]),32);
         bufp->chgIData(oldp+611,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][1U][0U]),32);
+                                 [0U][3U][1U]),32);
         bufp->chgIData(oldp+612,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][1U][1U]),32);
+                                 [0U][3U][2U]),32);
         bufp->chgIData(oldp+613,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][1U][2U]),32);
+                                 [0U][3U][3U]),32);
         bufp->chgIData(oldp+614,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][1U][3U]),32);
+                                 [1U][0U][0U]),32);
         bufp->chgIData(oldp+615,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][2U][0U]),32);
+                                 [1U][0U][1U]),32);
         bufp->chgIData(oldp+616,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][2U][1U]),32);
+                                 [1U][0U][2U]),32);
         bufp->chgIData(oldp+617,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][2U][2U]),32);
+                                 [1U][0U][3U]),32);
         bufp->chgIData(oldp+618,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][2U][3U]),32);
+                                 [1U][1U][0U]),32);
         bufp->chgIData(oldp+619,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][3U][0U]),32);
+                                 [1U][1U][1U]),32);
         bufp->chgIData(oldp+620,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][3U][1U]),32);
+                                 [1U][1U][2U]),32);
         bufp->chgIData(oldp+621,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
-                                 [1U][3U][2U]),32);
+                                 [1U][1U][3U]),32);
         bufp->chgIData(oldp+622,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
+                                 [1U][2U][0U]),32);
+        bufp->chgIData(oldp+623,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
+                                 [1U][2U][1U]),32);
+        bufp->chgIData(oldp+624,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
+                                 [1U][2U][2U]),32);
+        bufp->chgIData(oldp+625,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
+                                 [1U][2U][3U]),32);
+        bufp->chgIData(oldp+626,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
+                                 [1U][3U][0U]),32);
+        bufp->chgIData(oldp+627,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
+                                 [1U][3U][1U]),32);
+        bufp->chgIData(oldp+628,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
+                                 [1U][3U][2U]),32);
+        bufp->chgIData(oldp+629,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellout__keygen__combined_output
                                  [1U][3U][3U]),32);
-        bufp->chgIData(oldp+623,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out0[0]),32);
-        bufp->chgIData(oldp+624,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out0[1]),32);
-        bufp->chgIData(oldp+625,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out0[2]),32);
-        bufp->chgIData(oldp+626,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out0[3]),32);
-        bufp->chgIData(oldp+627,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out1[0]),32);
-        bufp->chgIData(oldp+628,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out1[1]),32);
-        bufp->chgIData(oldp+629,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out1[2]),32);
-        bufp->chgIData(oldp+630,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out1[3]),32);
-        bufp->chgIData(oldp+631,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out2[0]),32);
-        bufp->chgIData(oldp+632,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out2[1]),32);
-        bufp->chgIData(oldp+633,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out2[2]),32);
-        bufp->chgIData(oldp+634,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out2[3]),32);
-        bufp->chgIData(oldp+635,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out3[0]),32);
-        bufp->chgIData(oldp+636,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out3[1]),32);
-        bufp->chgIData(oldp+637,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out3[2]),32);
-        bufp->chgIData(oldp+638,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out3[3]),32);
-        bufp->chgIData(oldp+639,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added[0]),32);
-        bufp->chgIData(oldp+640,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added[1]),32);
-        bufp->chgIData(oldp+641,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added[2]),32);
-        bufp->chgIData(oldp+642,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added[3]),32);
-        bufp->chgIData(oldp+643,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added1[0]),32);
-        bufp->chgIData(oldp+644,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added1[1]),32);
-        bufp->chgIData(oldp+645,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added1[2]),32);
-        bufp->chgIData(oldp+646,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added1[3]),32);
-        bufp->chgIData(oldp+647,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[0]),32);
-        bufp->chgIData(oldp+648,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[1]),32);
-        bufp->chgIData(oldp+649,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[2]),32);
-        bufp->chgIData(oldp+650,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[3]),32);
-        bufp->chgIData(oldp+651,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[0]),32);
-        bufp->chgIData(oldp+652,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[1]),32);
-        bufp->chgIData(oldp+653,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[2]),32);
-        bufp->chgIData(oldp+654,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial2[3]),32);
-        bufp->chgIData(oldp+655,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[0]),32);
-        bufp->chgIData(oldp+656,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[1]),32);
-        bufp->chgIData(oldp+657,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[2]),32);
-        bufp->chgIData(oldp+658,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[3]),32);
-        bufp->chgIData(oldp+659,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+660,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+661,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+662,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+663,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[0]),32);
-        bufp->chgIData(oldp+664,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[1]),32);
-        bufp->chgIData(oldp+665,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[2]),32);
-        bufp->chgIData(oldp+666,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[3]),32);
-        bufp->chgIData(oldp+667,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[0]),32);
-        bufp->chgIData(oldp+668,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[1]),32);
-        bufp->chgIData(oldp+669,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[2]),32);
-        bufp->chgIData(oldp+670,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial2[3]),32);
-        bufp->chgIData(oldp+671,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[0]),32);
-        bufp->chgIData(oldp+672,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[1]),32);
-        bufp->chgIData(oldp+673,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[2]),32);
-        bufp->chgIData(oldp+674,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[3]),32);
-        bufp->chgIData(oldp+675,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+676,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+677,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+678,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+679,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[0]),32);
-        bufp->chgIData(oldp+680,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[1]),32);
-        bufp->chgIData(oldp+681,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[2]),32);
-        bufp->chgIData(oldp+682,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[3]),32);
-        bufp->chgIData(oldp+683,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[0]),32);
-        bufp->chgIData(oldp+684,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[1]),32);
-        bufp->chgIData(oldp+685,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[2]),32);
-        bufp->chgIData(oldp+686,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial2[3]),32);
-        bufp->chgIData(oldp+687,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[0]),32);
-        bufp->chgIData(oldp+688,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[1]),32);
-        bufp->chgIData(oldp+689,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[2]),32);
-        bufp->chgIData(oldp+690,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[3]),32);
-        bufp->chgIData(oldp+691,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+692,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+693,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+694,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+695,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[0]),32);
-        bufp->chgIData(oldp+696,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[1]),32);
-        bufp->chgIData(oldp+697,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[2]),32);
-        bufp->chgIData(oldp+698,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[3]),32);
-        bufp->chgIData(oldp+699,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[0]),32);
-        bufp->chgIData(oldp+700,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[1]),32);
-        bufp->chgIData(oldp+701,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[2]),32);
-        bufp->chgIData(oldp+702,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial2[3]),32);
-        bufp->chgIData(oldp+703,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[0]),32);
-        bufp->chgIData(oldp+704,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[1]),32);
-        bufp->chgIData(oldp+705,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[2]),32);
-        bufp->chgIData(oldp+706,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[3]),32);
-        bufp->chgIData(oldp+707,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0]),32);
-        bufp->chgIData(oldp+708,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1]),32);
-        bufp->chgIData(oldp+709,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2]),32);
-        bufp->chgIData(oldp+710,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3]),32);
-        bufp->chgIData(oldp+711,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk1__DOT__i),32);
-        bufp->chgIData(oldp+712,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk1__DOT__unnamedblk2__DOT__j),32);
-        bufp->chgIData(oldp+713,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk11__DOT__i),32);
-        bufp->chgIData(oldp+714,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk11__DOT__unnamedblk12__DOT__j),32);
-        bufp->chgIData(oldp+715,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk6__DOT__i),32);
-        bufp->chgIData(oldp+716,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk6__DOT__unnamedblk7__DOT__j),32);
-        bufp->chgIData(oldp+717,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk6__DOT__unnamedblk7__DOT__unnamedblk8__DOT__k),32);
-        bufp->chgIData(oldp+718,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk9__DOT__i),32);
-        bufp->chgIData(oldp+719,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk9__DOT__unnamedblk10__DOT__j),32);
-        bufp->chgIData(oldp+720,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__unnamedblk1__DOT__i),32);
-        bufp->chgIData(oldp+721,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__unnamedblk1__DOT__unnamedblk2__DOT__j),32);
-        bufp->chgIData(oldp+722,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__unnamedblk3__DOT__i),32);
-        bufp->chgIData(oldp+723,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__unnamedblk3__DOT__unnamedblk4__DOT__j),32);
-        bufp->chgIData(oldp+724,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__unnamedblk5__DOT__i),32);
+        bufp->chgIData(oldp+630,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out0[0]),32);
+        bufp->chgIData(oldp+631,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out0[1]),32);
+        bufp->chgIData(oldp+632,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out0[2]),32);
+        bufp->chgIData(oldp+633,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out0[3]),32);
+        bufp->chgIData(oldp+634,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out1[0]),32);
+        bufp->chgIData(oldp+635,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out1[1]),32);
+        bufp->chgIData(oldp+636,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out1[2]),32);
+        bufp->chgIData(oldp+637,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out1[3]),32);
+        bufp->chgIData(oldp+638,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out2[0]),32);
+        bufp->chgIData(oldp+639,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out2[1]),32);
+        bufp->chgIData(oldp+640,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out2[2]),32);
+        bufp->chgIData(oldp+641,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out2[3]),32);
+        bufp->chgIData(oldp+642,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out3[0]),32);
+        bufp->chgIData(oldp+643,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out3[1]),32);
+        bufp->chgIData(oldp+644,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out3[2]),32);
+        bufp->chgIData(oldp+645,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_out3[3]),32);
+        bufp->chgIData(oldp+646,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added[0]),32);
+        bufp->chgIData(oldp+647,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added[1]),32);
+        bufp->chgIData(oldp+648,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added[2]),32);
+        bufp->chgIData(oldp+649,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added[3]),32);
+        bufp->chgIData(oldp+650,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added1[0]),32);
+        bufp->chgIData(oldp+651,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added1[1]),32);
+        bufp->chgIData(oldp+652,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added1[2]),32);
+        bufp->chgIData(oldp+653,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__added1[3]),32);
+        bufp->chgIData(oldp+654,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[0]),32);
+        bufp->chgIData(oldp+655,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[1]),32);
+        bufp->chgIData(oldp+656,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[2]),32);
+        bufp->chgIData(oldp+657,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult0__polynomial_out[3]),32);
+        bufp->chgIData(oldp+658,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[0]),32);
+        bufp->chgIData(oldp+659,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[1]),32);
+        bufp->chgIData(oldp+660,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[2]),32);
+        bufp->chgIData(oldp+661,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult1__polynomial_out[3]),32);
+        bufp->chgIData(oldp+662,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[0]),32);
+        bufp->chgIData(oldp+663,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[1]),32);
+        bufp->chgIData(oldp+664,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[2]),32);
+        bufp->chgIData(oldp+665,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult2__polynomial_out[3]),32);
+        bufp->chgIData(oldp+666,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[0]),32);
+        bufp->chgIData(oldp+667,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[1]),32);
+        bufp->chgIData(oldp+668,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[2]),32);
+        bufp->chgIData(oldp+669,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellout__poly_mult3__polynomial_out[3]),32);
+        bufp->chgIData(oldp+670,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk11__DOT__i),32);
+        bufp->chgIData(oldp+671,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk11__DOT__unnamedblk12__DOT__j),32);
+        bufp->chgIData(oldp+672,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk6__DOT__i),32);
+        bufp->chgIData(oldp+673,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk6__DOT__unnamedblk7__DOT__j),32);
+        bufp->chgIData(oldp+674,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk6__DOT__unnamedblk7__DOT__unnamedblk8__DOT__k),32);
+        bufp->chgIData(oldp+675,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk9__DOT__i),32);
+        bufp->chgIData(oldp+676,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__unnamedblk9__DOT__unnamedblk10__DOT__j),32);
+    }
+    if (VL_UNLIKELY(vlSelf->__Vm_traceActivity[3U])) {
+        bufp->chgIData(oldp+677,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [0U][0U]),32);
+        bufp->chgIData(oldp+678,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [0U][1U]),32);
+        bufp->chgIData(oldp+679,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [0U][2U]),32);
+        bufp->chgIData(oldp+680,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [0U][3U]),32);
+        bufp->chgIData(oldp+681,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [1U][0U]),32);
+        bufp->chgIData(oldp+682,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [1U][1U]),32);
+        bufp->chgIData(oldp+683,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [1U][2U]),32);
+        bufp->chgIData(oldp+684,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [1U][3U]),32);
+        bufp->chgIData(oldp+685,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [2U][0U]),32);
+        bufp->chgIData(oldp+686,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [2U][1U]),32);
+        bufp->chgIData(oldp+687,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [2U][2U]),32);
+        bufp->chgIData(oldp+688,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [2U][3U]),32);
+        bufp->chgIData(oldp+689,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [3U][0U]),32);
+        bufp->chgIData(oldp+690,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [3U][1U]),32);
+        bufp->chgIData(oldp+691,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [3U][2U]),32);
+        bufp->chgIData(oldp+692,(vlSelf->BabyKyberTop__DOT__bkyber__DOT____Vcellinp__keygen__A
+                                 [3U][3U]),32);
+        bufp->chgIData(oldp+693,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[0]),32);
+        bufp->chgIData(oldp+694,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[1]),32);
+        bufp->chgIData(oldp+695,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[2]),32);
+        bufp->chgIData(oldp+696,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult0__polynomial1[3]),32);
+        bufp->chgIData(oldp+697,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult0__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+698,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult0__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+699,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult0__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+700,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult0__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+701,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[0]),32);
+        bufp->chgIData(oldp+702,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[1]),32);
+        bufp->chgIData(oldp+703,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[2]),32);
+        bufp->chgIData(oldp+704,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult1__polynomial1[3]),32);
+        bufp->chgIData(oldp+705,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult1__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+706,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult1__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+707,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult1__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+708,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult1__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+709,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[0]),32);
+        bufp->chgIData(oldp+710,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[1]),32);
+        bufp->chgIData(oldp+711,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[2]),32);
+        bufp->chgIData(oldp+712,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult2__polynomial1[3]),32);
+        bufp->chgIData(oldp+713,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult2__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+714,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult2__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+715,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult2__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+716,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult2__DOT__temp_result[3]),32);
+        bufp->chgIData(oldp+717,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[0]),32);
+        bufp->chgIData(oldp+718,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[1]),32);
+        bufp->chgIData(oldp+719,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[2]),32);
+        bufp->chgIData(oldp+720,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT____Vcellinp__poly_mult3__polynomial1[3]),32);
+        bufp->chgIData(oldp+721,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult3__DOT__temp_result[0]),32);
+        bufp->chgIData(oldp+722,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult3__DOT__temp_result[1]),32);
+        bufp->chgIData(oldp+723,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult3__DOT__temp_result[2]),32);
+        bufp->chgIData(oldp+724,(vlSelf->BabyKyberTop__DOT__bkyber__DOT__keygen__DOT__poly_mult3__DOT__temp_result[3]),32);
     }
     bufp->chgBit(oldp+725,(vlSelf->clock));
     bufp->chgBit(oldp+726,(vlSelf->reset));
@@ -1115,4 +1122,6 @@ void VBabyKyberTop___024root__trace_cleanup(void* voidSelf, VerilatedVcd* /*unus
     vlSymsp->__Vm_activity = false;
     vlSymsp->TOP.__Vm_traceActivity[0U] = 0U;
     vlSymsp->TOP.__Vm_traceActivity[1U] = 0U;
+    vlSymsp->TOP.__Vm_traceActivity[2U] = 0U;
+    vlSymsp->TOP.__Vm_traceActivity[3U] = 0U;
 }

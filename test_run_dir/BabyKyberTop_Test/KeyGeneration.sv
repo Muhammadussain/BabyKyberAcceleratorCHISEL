@@ -43,7 +43,8 @@ module KeyGeneration (
     //     end
     // endgenerate
 
-    always_ff @(posedge clk or negedge rst_n) begin
+//removed the negative edge
+    always_ff @(posedge clk ) begin
         if (!rst_n) begin
             for (int i = 0; i < 2; i++) begin
                 for (int j = 0; j < 4; j++) begin
