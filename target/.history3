@@ -76,3 +76,5 @@
 1724273679620:exit
 1724274194733:testOnly BabyKyber.BabyKyberTopTests -- -DwriteVcd=1
 1724316983107:exit
+1724321332809:testOnly BabyKyber.BabyKyberTopTests -- -DwriteVcd=1
+1724322455609:exit
