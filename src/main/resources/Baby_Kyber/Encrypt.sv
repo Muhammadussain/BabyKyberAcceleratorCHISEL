@@ -1,3 +1,5 @@
+/* Created By Hamna Mohiuddin @hamnamohi as a Google Summer of Code 2024 Project.*/
+
 module Encrypt (
     input logic clk,
     input logic rst_n,
@@ -25,11 +27,6 @@ module Encrypt (
     logic signed [31:0] u [1:0][3:0];
     logic signed [31:0] v [3:0];
     logic signed [31:0] temp [3:0];
-
-    // DecimalToBitConverter dec_to_bit (
-    //     .input_value(message),
-    //     .coefficients(coefficients)
-    // );
 
     MatrixTranspose transpose_inst (
         .matrix_in(combined_output[0]),

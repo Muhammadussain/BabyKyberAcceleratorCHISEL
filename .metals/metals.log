@@ -1973,3 +1973,133 @@ Aug 22, 2024 3:07:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 5
 2024.08.22 15:07:25 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
 2024.08.22 15:07:25 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:12:35 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:14:53 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:15:12 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:15:15 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:18 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+Aug 22, 2024 4:16:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+Aug 22, 2024 4:16:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2024.08.22 16:16:23 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:23 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 22, 2024 4:16:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2024.08.22 16:16:23 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:23 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:24 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:24 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:16:24 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:16:24 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:25 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 22, 2024 4:16:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+2024.08.22 16:16:25 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:25 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:26 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:16:25 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:37 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:16:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 22, 2024 4:16:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+Aug 22, 2024 4:16:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+2024.08.22 16:16:38 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+Aug 22, 2024 4:16:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+2024.08.22 16:16:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 22, 2024 4:16:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+2024.08.22 16:16:38 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+Aug 22, 2024 4:16:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+2024.08.22 16:16:38 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:39 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:16:44 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 22, 2024 4:16:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/hamna/BabyKyberAcceleratorCHISEL/.metals/.reports/metals-full/2024-08-22/r_compiler-error_16-16-55-301.md
+2024.08.22 16:16:58 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:17:04 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:17:04 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:17:17 WARN  Could not find semantic tokens for: file:///home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:17:22 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:17:23 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:17:24 WARN  Could not find semantic tokens for: file:///home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:17:24 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:17:24 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:17:24 WARN  Could not find semantic tokens for: file:///home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:17:24 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:17:25 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 22, 2024 4:17:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/hamna/BabyKyberAcceleratorCHISEL/.metals/.reports/metals-full/2024-08-22/r_compiler-error_16-17-26-217.md
+Aug 22, 2024 4:17:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/hamna/BabyKyberAcceleratorCHISEL/.metals/.reports/metals-full/2024-08-22/r_compiler-error_16-17-26-216.md
+2024.08.22 16:18:25 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:25 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:26 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:29 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:29 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:29 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:29 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:18:29 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:30 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:31 WARN  Could not find semantic tokens for: file:///home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:18:31 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:18:31 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:31 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:31 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:31 WARN  Could not find semantic tokens for: file:///home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:18:32 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:32 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:32 WARN  Could not find semantic tokens for: file:///home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:18:34 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:34 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:34 WARN  Could not find semantic tokens for: file:///home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:18:34 WARN  no build target for: /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:18:34 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:34 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:34 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:34 WARN  Could not find semantic tokens for: file:///home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:18:34 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:18:34 WARN  Could not find semantic tokens for: file:///home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:18:34 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:19:04 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:19:04 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:19:04 WARN  Could not find semantic tokens for: file:///home/hamna/BabyKyberAcceleratorCHISEL/build.sbt
+2024.08.22 16:28:23 INFO  Started: Metals version 1.3.5 in folders '/home/hamna/BabyKyberAcceleratorCHISEL' for client Visual Studio Code 1.80.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1c868fcb]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@34a33f59]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1c868fcb]
+2024.08.22 16:28:31 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.22 16:28:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.22 16:28:37 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 11:50:14 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 15:23:36 INFO  Started: Metals version 1.3.5 in folders '/home/hamna/BabyKyberAcceleratorCHISEL' for client Visual Studio Code 1.80.2.
+2024.08.23 15:23:36 INFO  time: initialize in 0.15s
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5eaeeea]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@21f7c6b5]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5eaeeea]
+2024.08.23 15:23:45 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.23 15:23:51 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 15:26:00 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 15:26:04 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 15:26:12 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 15:27:16 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 15:27:18 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 15:32:40 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 15:42:05 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 15:42:06 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 15:43:21 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.23 18:11:47 INFO  no build target found for /home/hamna/BabyKyberAcceleratorCHISEL/src/main/scala/BabyKyber/BabyKyberTop.scala. Using presentation compiler with project's scala-library version: 3.3.3

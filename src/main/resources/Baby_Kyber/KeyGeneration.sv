@@ -1,3 +1,5 @@
+/* Created By Hamna Mohiuddin @hamnamohi as a Google Summer of Code 2024 Project.*/
+
 module KeyGeneration (
    
     input logic signed [31:0] A [3:0][3:0],
@@ -17,31 +19,7 @@ module KeyGeneration (
     logic signed [31:0] poly_out3 [3:0];
     logic signed [31:0] added [3:0];
     logic signed [31:0] added1 [3:0];
-    
-    // generate
-    //     for (idx = 0; idx < 16; idx++) begin : rng_loop1
-    //         RandomNumberGenerator #(
-    //             .MIN_VALUE(-16), 
-    //             .MAX_VALUE(16)
-    //         ) rng (
-    //             .clk(clk),
-    //             .rst_n(rst_n),
-    //             .enable(enable & !stop_random_generation),
-    //             .random_number(rand_num[idx])
-    //         );
-    //     end
-    //     for (idx = 16; idx < 32; idx++) begin : rng_loop2
-    //         RandomNumberGenerator #(
-    //             .MIN_VALUE(-1), 
-    //             .MAX_VALUE(1)
-    //         ) rng (
-    //             .clk(clk),
-    //             .rst_n(rst_n),
-    //             .enable(enable & !stop_random_generation),
-    //             .random_number(rand_num[idx])
-    //         );
-    //     end
-    // endgenerate
+
 
 //removed the negative edge
     always_ff @(posedge clk ) begin

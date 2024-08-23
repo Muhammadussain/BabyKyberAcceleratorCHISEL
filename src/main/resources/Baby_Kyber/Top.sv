@@ -1,3 +1,5 @@
+/* Created By Hamna Mohiuddin @hamnamohi as a Google Summer of Code 2024 Project.*/
+
 module Top (
     input logic clk,
     input logic rst_n,
@@ -10,10 +12,6 @@ module Top (
 
 );
 
-// logic [31:0] addr_Req;
-// logic [31:0] data_Req;
-// logic wen_Req;
-// logic [7:0] bytelane_Req;
 // logic [31:0] data_Resp;
 logic signed [31:0] secretkey [1:0][3:0];
 logic signed [31:0] result [1:0][3:0];
@@ -28,11 +26,6 @@ logic signed [31:0] e2 [3:0];
 logic signed [31:0] decimal_value;
 logic signed [3:0] m_b;
 
-
-
-
-// logic signed [31:0] secretkey_reg [1:0][3:0];
-// logic signed [31:0] result [1:0][3:0];
 //Key Generation Input Registers
 logic signed [31:0] A_t000;
 logic signed [31:0] A_t001;
@@ -68,8 +61,6 @@ logic signed [31:0] e_10;
 logic signed [31:0] e_11;
 logic signed [31:0] e_12;
 logic signed [31:0] e_13;
-
-//Key Generation Output Registers
 
 //Encrypt Input Registers
 logic signed [31:0] message;
@@ -137,23 +128,6 @@ logic signed [31:0] ciphertext102;
 logic signed [31:0] ciphertext103;
 
 
-// DataRequest dataReq (
-//     .addr(addr_Req),
-//     .data(data_Req),
-//     .wen(wen_Req),
-//     .ren(ren_Req),
-//     .bytelane(bytelane_Req),
-//     .ready(ready_Req),
-//     .valid(valid_Req)
-// );
-// DataResponse dataResp(
-//     .ready(ready_Resp),
-//     .data(data_Resp),
-//     .error(1'b0),
-//     .valid(valid_Resp)
-
-// );
-
 KeyGeneration keygen (
     .clk(clk),
     .rst_n(rst_n),
@@ -211,7 +185,6 @@ Decrypt decryption (
                 end
             end
 
-            // Resetting e2 to zero
             for (int i = 0; i < 4; i++) begin
                 e2[i] <= 32'b0;
             end
@@ -321,7 +294,7 @@ Decrypt decryption (
             ciphertext102 <= 32'b0;
             ciphertext103 <= 32'b0;
 
-            // decimal_value <= 32'b0;
+           
 
         end else if (enable) begin 
             //keygen

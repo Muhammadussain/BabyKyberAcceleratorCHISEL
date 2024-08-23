@@ -1,3 +1,5 @@
+/* Created By Hamna Mohiuddin @hamnamohi as a Google Summer of Code 2024 Project.*/
+
 module DecimalToBitConverter (
     input logic [31:0] input_value,  
     output logic [3:0] coefficients  
