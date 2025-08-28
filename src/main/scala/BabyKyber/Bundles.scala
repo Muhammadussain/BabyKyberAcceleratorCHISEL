@@ -8,12 +8,12 @@ import chisel3.experimental._
 import chisel3.util.experimental._
 
 class RequestIO extends Bundle {
-  val addrRequest: SInt = Input(SInt(32.W))
-  val dataRequest: SInt = Input(SInt(32.W))
-  val activeByteLane: SInt = Input(SInt(4.W))
-  val isWrite: Bool = Input(Bool())
+    val addrRequest = Input(UInt(32.W))
+    val dataRequest = Input(UInt(32.W))
+    val activeByteLane= Input(UInt(4.W))
+    val isWrite = Input(Bool())
 }
 
 class ResponseIO extends Bundle {
-  val dataResponse: SInt = Input(SInt(32.W))
+    val dataResponse: UInt = Input(UInt(32.W))
 }
