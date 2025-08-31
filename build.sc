@@ -23,8 +23,7 @@ object Scala-Chisel-Learning-Journey extends SbtModule { m =>
     ivy"edu.berkeley.cs::chisel3:3.4.3",
   )
   override def scalacPluginIvyDeps = Agg(
-    ivy"edu.berkeley.cs:::chisel3-plugin:3.4.3",
-    ivy"org.scalamacros:::paradise:2.1.1"
+  ivy"edu.berkeley.cs:::chisel3-plugin:3.4.3"
   )
   object test extends Tests with ScalaTest {
     override def ivyDeps = m.ivyDeps() ++ Agg(

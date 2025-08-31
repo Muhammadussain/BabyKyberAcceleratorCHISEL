@@ -5,12 +5,31 @@ import chisel3._
 import chisel3.stage.ChiselStage
 import chisel3.util.Decoupled
 
-class BabyKyberHarness(implicit val config: WishboneConfig ) extends Module {
+class BabyKyberHarness(val config: WishboneConfig) extends Module {
+  // allow no-arg construction that uses a sensible default so callers (Top) need not reference caravan
+  def this() = this(WishboneConfig(32, 32))
+
+  // make the passed config available implicitly for internal constructors that expect an implicit WishboneConfig
+  implicit val implicitWBConfig: WishboneConfig = config
   val io = IO(new Bundle {
 
     // bus interconnect interfaces
     val req = Flipped(Decoupled(new WBRequest()))
     val rsp = Decoupled(new WBResponse())
+
+// package BabyKyber
+// // import caravan.bus.tilelink.{TLRequest, TLResponse, TilelinkConfig, TilelinkDevice, TilelinkHost}
+// import caravan.bus.wishbone.{WBRequest, WBResponse, WishboneConfig, WishboneDevice, WishboneHost}
+// import chisel3._
+// import chisel3.stage.ChiselStage
+// import chisel3.util.Decoupled
+
+// class BabyKyberHarness(implicit val config: WishboneConfig ) extends Module {
+//   val io = IO(new Bundle {
+
+//     // bus interconnect interfaces
+//     val req = Flipped(Decoupled(new WBRequest()))
+//     val rsp = Decoupled(new WBResponse())
 
     // *** EXTERNAL CONTROL SIGNALS (testbench se control) ***
     val enable = Input(Bool())
@@ -49,9 +68,13 @@ class BabyKyberHarness(implicit val config: WishboneConfig ) extends Module {
 }
 
 object BabyKyberDriverWB extends App {
-  implicit val config = WishboneConfig(32,32)
-  (new ChiselStage).emitVerilog(new BabyKyberHarness())
+  val defaultConfig = WishboneConfig(32,32)
+  (new ChiselStage).emitVerilog(new BabyKyberHarness(defaultConfig))
 }
+// object BabyKyberDriverWB extends App {
+//   implicit val config = WishboneConfig(32,32)
+//   (new ChiselStage).emitVerilog(new BabyKyberHarness())
+// }
 
 /*
 // *** TILELINK CODE COMMENTED OUT ***
