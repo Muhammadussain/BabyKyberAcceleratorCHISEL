@@ -3,13 +3,14 @@
 module Encrypt (
     input logic clk,
     input logic rst_n,
-    input logic enable,
+    input logic encryption_enable,
     input logic [31:0] message,
     input logic signed [31:0] r [1:0][3:0],
     input logic signed [31:0] e1 [1:0][3:0],
     input logic signed [31:0] e2 [3:0],
     input logic signed [31:0] combined_output [1:0][3:0][3:0],
-    output logic signed [31:0] ciphertext[1:0] [1:0][3:0]
+    output logic signed [31:0] ciphertext[1:0] [1:0][3:0],
+    output logic encryption_done
 );
 
     logic signed [31:0] transposed_matrix [3:0][3:0];
@@ -36,7 +37,7 @@ module Encrypt (
     PolynomialMatrixMultiplication poly_mult_inst (
         .clk(clk),
         .rst_n(rst_n),
-        .enable(enable),
+        .enable(encryption_enable),
         .polynomial1(transposed_matrix[0]),
         .polynomial2(r[0]),
         .polynomial_out(poly_out0)
@@ -45,7 +46,7 @@ module Encrypt (
     PolynomialMatrixMultiplication poly_mult_inst1 (
         .clk(clk),
         .rst_n(rst_n),
-        .enable(enable),
+        .enable(encryption_enable),
         .polynomial1(transposed_matrix[1]),
         .polynomial2(r[1]),
         .polynomial_out(poly_out1)
@@ -54,7 +55,7 @@ module Encrypt (
     PolynomialMatrixMultiplication poly_mult_inst2 (
         .clk(clk),
         .rst_n(rst_n),
-        .enable(enable),
+        .enable(encryption_enable),
         .polynomial1(transposed_matrix[2]),
         .polynomial2(r[0]),
         .polynomial_out(poly_out2)
@@ -63,7 +64,7 @@ module Encrypt (
     PolynomialMatrixMultiplication poly_mult_inst3 (
         .clk(clk),
         .rst_n(rst_n),
-        .enable(enable),
+        .enable(encryption_enable),
         .polynomial1(transposed_matrix[3]),
         .polynomial2(r[1]),
         .polynomial_out(poly_out3)
@@ -72,7 +73,7 @@ module Encrypt (
     PolynomialMatrixMultiplication poly_mult_inst4 (
         .clk(clk),
         .rst_n(rst_n),
-        .enable(enable),
+        .enable(encryption_enable),
         .polynomial1(combined_output[1][0]),
         .polynomial2(r[0]),
         .polynomial_out(poly_out4)
@@ -81,7 +82,7 @@ module Encrypt (
     PolynomialMatrixMultiplication poly_mult_inst5 (
         .clk(clk),
         .rst_n(rst_n),
-        .enable(enable),
+        .enable(encryption_enable),
         .polynomial1(combined_output[1][1]),
         .polynomial2(r[1]),
         .polynomial_out(poly_out5)
@@ -94,14 +95,14 @@ module Encrypt (
 
                 end
             
-        end else if (enable) begin
+        end else if (encryption_enable) begin
             
             for (int i = 0; i < 4; i++) begin
                     coefficients[i] <= message[i];
 
                 end
 
-           
+           encryption_done<=1;
         end
     end
 
@@ -113,7 +114,7 @@ module Encrypt (
             u[0][i] = 0;
             u[1][i] = 0;
         end
-        if (enable) begin
+        if (encryption_enable) begin
             
             for (int i = 0; i < 4; i++) begin
                 
@@ -187,7 +188,10 @@ module Encrypt (
                 ciphertext[0][i][j] = u[i][j];
                 ciphertext[1][0][j] = v[j];
             end
+            
         end
+                
+
     end
 
 endmodule

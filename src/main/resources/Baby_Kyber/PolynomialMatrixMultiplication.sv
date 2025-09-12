@@ -6,6 +6,7 @@ module PolynomialMatrixMultiplication (
     input logic enable,
     input logic signed [31:0] polynomial1 [3:0], 
     input logic signed [31:0] polynomial2 [3:0], 
+    
     output logic signed [31:0] polynomial_out [3:0] 
 );
     logic signed [31:0] temp_result [3:0];
@@ -51,6 +52,7 @@ end
             polynomial_out[1] <= temp_result[1];
             polynomial_out[2] <= temp_result[2];
             polynomial_out[3] <= temp_result[3];
+            
         end
     end
 endmodule
